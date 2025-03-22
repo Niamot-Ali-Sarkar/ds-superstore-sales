@@ -1,0 +1,6 @@
+customer_segment,"count(distinct CustomerName)",segment_total_profit,segment_total_qty,segment_total_sales
+others,2202,240036,79674,4862382
+"most active customer",294,879370,41644,3557324
+"active customer",103,156240,5792,356404
+"can not lose",23,39150,1081,111476
+"new cutomer",80,-2353,1873,64264
