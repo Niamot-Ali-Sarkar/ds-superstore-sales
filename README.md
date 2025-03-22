@@ -28,45 +28,41 @@ Based on the result we want to perform some marketing campaign to the necessary 
   - d. SHOW VARIABLES LIKE 'secure_file_priv'; -- paste location of CSV file
   -	e. SHOW WARNINGS; -- use to see warnings
 
-- 5. start exploring the table 
-- a. OrderDate/ ShipDate
-- b. string-to-date format
-- c. year and month
-- d. Update the date format: string to date
-- e. first and last order date using max and min
-/* ================================================
-2. Last and First transection date of each customer
-==================================================*/
-/* ============================================================
-3.Find Recency Last and First transection date of each customer
-===============================================================*/
-/* ================================================
-4.Create View of the database calculate profit loss
-==================================================*/
--- 	a. categorized by OrderPriority (Order By), of Total Profit, 
--- 	  Total Sales, Total Order, Individual Customer of Each catagory
--- 	b. Prepare a profit/Loss Table
-/* ===================================================
-5.Create View of the database find important customers
-=====================================================*/
--- 	a. operatio-1: extract info from main (sales) table
--- 	b. operatio-2: extract info from operation-1 and perform 
--- 	c. operation-3: give score to the profit, Quantity and total sales,
--- 	d. select the variables you want to store in the view from the 
---         last operation (operation-3)
-/* ==========================================================
-6.Create View from the view to find important customers info
-  and label them as you want.
-=============================================================*/
---	a. label the each customer using the score value
--- 	b. Find the total_profit, total_qty, total_sales of each customer category
--- 	   and also find the number of customers in each category
-/* ==========================================================
-7.Create View from the view to find important customers info
-=============================================================*/
--- using important_customer_label view find the important customer
--- information like customer name, total profit from the customer,
--- total quantity of sales to the customer, customer segment,
--- customer id and location related information.
--- ----------- End -------------
+-  start exploring the table 
+     - a. OrderDate/ ShipDate
+     - b. string-to-date format
+     - c. year and month
+     - d. Update the date format: string to date
+     - e. first and last order date using max and min
+
+**2. Last and First transaction date of each customer**
+In this section last transaction date of each customer is calculated.
+
+**3. Find the Recency Last and First transaction date of each customer**
+Recency value: it is the difference between the last transaction date of each customer from the last business transaction.
+By using this value we find how active a customer is.
+
+**4. Create a View of the database to calculate profit loss**
+- a. categorized by OrderPriority (Order By), of Total Profit,
+     Total Sales, Total Order, Individual Customer of Each category
+- b. Prepare a profit/Loss Table
+
+**5. Create a View of the database to find important customers**
+- a. operation-1: extract info from main (sales) table
+- b. operation-2: extract info from operation-1 and perform 
+- c. operation-3: give score to the profit, Quantity, and total sales,
+- d. select the variables you want to store in the view from the 
+     last operation (operation-3)
+
+**6. Create a View from the view to find important customer info and label them as you want.**
+- a. label each customer using the score value
+- b. Find the total total, total_qty, and total_sales of each customer category
+     and also find the number of customers in each category
+  
+**7. Create View from the view to find important customer info**
+- using important_customer_label view to find the important customer
+- information like customer name, total profit from the customer,
+- total quantity of sales to the customer, customer segment,
+- customer ID and location-related information.
+
 ## Findings / Results
