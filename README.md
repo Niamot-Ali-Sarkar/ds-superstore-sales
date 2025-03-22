@@ -15,10 +15,10 @@ Based on the result we want to perform some marketing campaign to the necessary 
 - `superstore_data_analysis.sql`: necessary SQL write to perform analysis
 ## Methodology
 **1. Create a database, load the CSV file, and explore it**
-- 1. Create a database in MySQL
-- 2. Define the table columns
-- 3. Correct the table column after getting errors
-- 4. Bulk insertion
+- Create a database in MySQL
+- Define the table columns
+- Correct the table column after getting errors
+- Bulk insertion
      While performing bulk insertion we got so many errors, to solve those errors we
      did those operation: 
   - a. paste the CSV file in the "C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/" location
@@ -29,11 +29,11 @@ Based on the result we want to perform some marketing campaign to the necessary 
   -	e. SHOW WARNINGS; -- use to see warnings
 
 - 5. start exploring the table 
-- 	  a. OrderDate/ ShipDate
--     b. string-to-date format
--   	c. year and month
--     d. Update the date format: string to date
--   	e. first and last order date using max and min
+- a. OrderDate/ ShipDate
+- b. string-to-date format
+- c. year and month
+- d. Update the date format: string to date
+- e. first and last order date using max and min
 /* ================================================
 2. Last and First transection date of each customer
 ==================================================*/
