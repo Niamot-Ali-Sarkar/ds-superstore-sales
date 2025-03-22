@@ -7,6 +7,7 @@ In this analysis a sales database of a superstore is used. This data set is load
 - add a scoring system to the profit or loss, total sales, and total order, total quantity for each customer and create a view
 - find the important customer from the scoring system
 - find the important customer personal information like city, state, name, etc
+
 Based on the result we want to perform some marketing campaign to the necessary customers so the we can increase sales and profit.
 ## Necessary Files
 ## Methodology
