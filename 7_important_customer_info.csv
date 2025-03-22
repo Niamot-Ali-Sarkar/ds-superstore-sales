@@ -1,0 +1,1001 @@
+CustomerName,total_profit,total_Qty,total_sales,customer_segment,RowID,CustomerSegment,Region,StateOrProvince,City,PostalCode
+"Andrea Shaw",17536.85,93,26284.68,"most active customer",21952,Corporate,Central,Illinois,Danville,61832
+"Andrea Shaw",17536.85,93,26284.68,"most active customer",22193,"Small Business",Central,Illinois,Danville,61832
+"Andrea Shaw",17536.85,93,26284.68,"most active customer",19913,"Small Business",Central,Illinois,Danville,61832
+"Andrea Shaw",17536.85,93,26284.68,"most active customer",19843,"Small Business",Central,Illinois,Danville,61832
+"Andrea Shaw",17536.85,93,26284.68,"most active customer",19842,"Small Business",Central,Illinois,Danville,61832
+"Andrea Shaw",17536.85,93,26284.68,"most active customer",20624,"Small Business",Central,Illinois,Danville,61832
+"Cathy Hutchinson",17306.63,33,5201.03,others,18385,"Home Office",South,Florida,Kissimmee,34741
+"Cathy Hutchinson",17306.63,33,5201.03,others,18384,"Home Office",South,Florida,Kissimmee,34741
+"Nina Horne Kelly",16432.45,223,78243.6,"most active customer",568,"Small Business",East,"District of Columbia",Washington,20012
+"Nina Horne Kelly",16432.45,223,78243.6,"most active customer",8244,"Small Business",East,"District of Columbia",Washington,20012
+"Nina Horne Kelly",16432.45,223,78243.6,"most active customer",8243,"Small Business",East,"District of Columbia",Washington,20012
+"Nina Horne Kelly",16432.45,223,78243.6,"most active customer",1085,"Small Business",East,"District of Columbia",Washington,20012
+"Nina Horne Kelly",16432.45,223,78243.6,"most active customer",1084,"Small Business",East,"District of Columbia",Washington,20012
+"Nina Horne Kelly",16432.45,223,78243.6,"most active customer",8389,"Small Business",East,"District of Columbia",Washington,20012
+"Nina Horne Kelly",16432.45,223,78243.6,"most active customer",567,"Small Business",East,"District of Columbia",Washington,20012
+"Nina Horne Kelly",16432.45,223,78243.6,"most active customer",566,"Small Business",East,"District of Columbia",Washington,20012
+"Marie Daniel",12511.65,25,18197.82,others,23560,Corporate,Central,Illinois,Elgin,60123
+"Marie Daniel",12511.65,25,18197.82,others,24665,Corporate,Central,Illinois,Elgin,60123
+"Marie Daniel",12511.65,25,18197.82,others,24103,Corporate,Central,Illinois,Elgin,60123
+"Jesse Williams Katz",11820.75,101,19781.52,others,23938,"Home Office",West,Arizona,Yuma,85364
+"Jesse Williams Katz",11820.75,101,19781.52,others,23937,"Home Office",West,Arizona,Yuma,85364
+"Jesse Williams Katz",11820.75,101,19781.52,others,24136,Consumer,West,Arizona,Yuma,85364
+"Jesse Williams Katz",11820.75,101,19781.52,others,23522,"Home Office",West,Arizona,Yuma,85364
+"Jesse Williams Katz",11820.75,101,19781.52,others,23521,"Home Office",West,Arizona,Yuma,85364
+"Deborah Paul",11080.49,53,17321.24,others,20425,"Small Business",West,Oregon,"West Linn",97068
+"Deborah Paul",11080.49,53,17321.24,others,18924,"Small Business",West,Oregon,"West Linn",97068
+"Deborah Paul",11080.49,53,17321.24,others,18923,"Small Business",West,Oregon,"West Linn",97068
+"Deborah Paul",11080.49,53,17321.24,others,18661,"Small Business",West,Oregon,"West Linn",97068
+"Deborah Paul",11080.49,53,17321.24,others,18660,"Small Business",West,Oregon,"West Linn",97068
+"Dwight Albright Huffman",10427.95,53,16612.69,"most active customer",23589,Corporate,West,California,"San Francisco",94110
+"Dwight Albright Huffman",10427.95,53,16612.69,"most active customer",22629,Corporate,West,California,"San Francisco",94110
+"Dwight Albright Huffman",10427.95,53,16612.69,"most active customer",20746,"Home Office",West,California,"San Francisco",94110
+"Dwight Albright Huffman",10427.95,53,16612.69,"most active customer",21063,"Home Office",West,California,"San Francisco",94110
+"Dwight Albright Huffman",10427.95,53,16612.69,"most active customer",23184,Corporate,West,California,"San Francisco",94110
+"Dwight Albright Huffman",10427.95,53,16612.69,"most active customer",23024,"Home Office",West,California,"San Francisco",94110
+"Dwight Albright Huffman",10427.95,53,16612.69,"most active customer",19023,Corporate,West,California,"San Francisco",94110
+"Helen Stein",9818.77,69,16700.95,"most active customer",23881,Corporate,East,Ohio,Cincinnati,45231
+"Helen Stein",9818.77,69,16700.95,"most active customer",25296,Consumer,East,Ohio,Cincinnati,45231
+"Helen Stein",9818.77,69,16700.95,"most active customer",23292,Corporate,East,Ohio,Cincinnati,45231
+"Helen Stein",9818.77,69,16700.95,"most active customer",23291,Corporate,East,Ohio,Cincinnati,45231
+"Helen Stein",9818.77,69,16700.95,"most active customer",23290,Corporate,East,Ohio,Cincinnati,45231
+"Helen Stein",9818.77,69,16700.95,"most active customer",23880,Corporate,East,Ohio,Cincinnati,45231
+"Helen Stein",9818.77,69,16700.95,"most active customer",23639,Consumer,East,Ohio,Cincinnati,45231
+"Richard McClure",9700.95,131,16355.43,"most active customer",19400,"Small Business",West,Colorado,Thornton,80229
+"Richard McClure",9700.95,131,16355.43,"most active customer",18736,"Small Business",West,Colorado,Thornton,80229
+"Richard McClure",9700.95,131,16355.43,"most active customer",18737,"Small Business",West,Colorado,Thornton,80229
+"Richard McClure",9700.95,131,16355.43,"most active customer",18738,"Small Business",West,Colorado,Thornton,80229
+"Richard McClure",9700.95,131,16355.43,"most active customer",18810,"Small Business",West,Colorado,Thornton,80229
+"Richard McClure",9700.95,131,16355.43,"most active customer",22379,"Small Business",West,Colorado,Thornton,80229
+"Richard McClure",9700.95,131,16355.43,"most active customer",24666,"Small Business",West,Colorado,Thornton,80229
+"Richard McClure",9700.95,131,16355.43,"most active customer",18575,"Small Business",West,Colorado,Thornton,80229
+"Richard McClure",9700.95,131,16355.43,"most active customer",18576,"Small Business",West,Colorado,Thornton,80229
+"Richard McClure",9700.95,131,16355.43,"most active customer",22380,"Small Business",West,Colorado,Thornton,80229
+"Leigh Burnette Hurley",9289.94,992,83651.7,"most active customer",5501,Corporate,Central,Illinois,Chicago,60601
+"Leigh Burnette Hurley",9289.94,992,83651.7,"most active customer",5502,Corporate,Central,Illinois,Chicago,60601
+"Leigh Burnette Hurley",9289.94,992,83651.7,"most active customer",5786,Corporate,Central,Illinois,Chicago,60601
+"Leigh Burnette Hurley",9289.94,992,83651.7,"most active customer",5787,Corporate,Central,Illinois,Chicago,60601
+"Leigh Burnette Hurley",9289.94,992,83651.7,"most active customer",5788,Corporate,Central,Illinois,Chicago,60601
+"Leigh Burnette Hurley",9289.94,992,83651.7,"most active customer",5789,Corporate,Central,Illinois,Chicago,60601
+"Leigh Burnette Hurley",9289.94,992,83651.7,"most active customer",8250,Corporate,Central,Illinois,Chicago,60601
+"Leigh Burnette Hurley",9289.94,992,83651.7,"most active customer",4896,"Home Office",Central,Illinois,Chicago,60601
+"Leigh Burnette Hurley",9289.94,992,83651.7,"most active customer",4897,"Home Office",Central,Illinois,Chicago,60601
+"Leigh Burnette Hurley",9289.94,992,83651.7,"most active customer",4898,"Home Office",Central,Illinois,Chicago,60601
+"Leigh Burnette Hurley",9289.94,992,83651.7,"most active customer",6104,"Home Office",Central,Illinois,Chicago,60601
+"Leigh Burnette Hurley",9289.94,992,83651.7,"most active customer",5904,"Home Office",Central,Illinois,Chicago,60601
+"Leigh Burnette Hurley",9289.94,992,83651.7,"most active customer",5450,"Home Office",Central,Illinois,Chicago,60601
+"Leigh Burnette Hurley",9289.94,992,83651.7,"most active customer",4608,"Home Office",Central,Illinois,Chicago,60601
+"Leigh Burnette Hurley",9289.94,992,83651.7,"most active customer",4609,"Home Office",Central,Illinois,Chicago,60601
+"Leigh Burnette Hurley",9289.94,992,83651.7,"most active customer",3164,Corporate,Central,Illinois,Chicago,60601
+"Leigh Burnette Hurley",9289.94,992,83651.7,"most active customer",407,Corporate,Central,Illinois,Chicago,60601
+"Leigh Burnette Hurley",9289.94,992,83651.7,"most active customer",725,"Home Office",Central,Illinois,Chicago,60601
+"Leigh Burnette Hurley",9289.94,992,83651.7,"most active customer",726,"Home Office",Central,Illinois,Chicago,60601
+"Leigh Burnette Hurley",9289.94,992,83651.7,"most active customer",4605,Corporate,Central,Illinois,Chicago,60601
+"Leigh Burnette Hurley",9289.94,992,83651.7,"most active customer",4606,Corporate,Central,Illinois,Chicago,60601
+"Leigh Burnette Hurley",9289.94,992,83651.7,"most active customer",3984,"Home Office",Central,Illinois,Chicago,60601
+"Lester Stuart",9248.89,119,14954.99,"most active customer",23876,Corporate,Central,Minnesota,Roseville,55113
+"Lester Stuart",9248.89,119,14954.99,"most active customer",25809,Corporate,Central,Minnesota,Roseville,55113
+"Lester Stuart",9248.89,119,14954.99,"most active customer",25569,Corporate,Central,Minnesota,Roseville,55113
+"Lester Stuart",9248.89,119,14954.99,"most active customer",22879,Corporate,Central,Minnesota,Roseville,55113
+"Lester Stuart",9248.89,119,14954.99,"most active customer",24411,Corporate,Central,Minnesota,Roseville,55113
+"Annie Odom",9243.58,77,13850.56,"most active customer",21697,Corporate,East,"New York","New City",10956
+"Annie Odom",9243.58,77,13850.56,"most active customer",21698,Corporate,East,"New York","New City",10956
+"Annie Odom",9243.58,77,13850.56,"most active customer",21699,Corporate,East,"New York","New City",10956
+"Annie Odom",9243.58,77,13850.56,"most active customer",21476,Corporate,East,"New York","New City",10956
+"Annie Odom",9243.58,77,13850.56,"most active customer",21477,Corporate,East,"New York","New City",10956
+"Annie Odom",9243.58,77,13850.56,"most active customer",21726,Corporate,East,"New York","New City",10956
+"Annie Odom",9243.58,77,13850.56,"most active customer",20820,Corporate,East,"New York","New City",10956
+"Edna Pierce",9118.14,94,10883.06,"most active customer",22593,Corporate,South,"North Carolina",Goldsboro,27534
+"Edna Pierce",9118.14,94,10883.06,"most active customer",22742,Corporate,South,"North Carolina",Goldsboro,27534
+"Edna Pierce",9118.14,94,10883.06,"most active customer",22743,Corporate,South,"North Carolina",Goldsboro,27534
+"Edna Pierce",9118.14,94,10883.06,"most active customer",19290,Corporate,South,"North Carolina",Goldsboro,27534
+"Edna Pierce",9118.14,94,10883.06,"most active customer",19291,Corporate,South,"North Carolina",Goldsboro,27534
+"Edna Pierce",9118.14,94,10883.06,"most active customer",19292,Corporate,South,"North Carolina",Goldsboro,27534
+"Edna Pierce",9118.14,94,10883.06,"most active customer",18884,Corporate,South,"North Carolina",Goldsboro,27534
+"Grace Vaughn",8956.06,73,13016.75,"most active customer",26188,"Home Office",West,Arizona,Kingman,86401
+"Grace Vaughn",8956.06,73,13016.75,"most active customer",25778,"Home Office",West,Arizona,Kingman,86401
+"Bobby Dorsey",8808.32,74,13284.11,"most active customer",21327,Corporate,East,"New York",Hicksville,11801
+"Bobby Dorsey",8808.32,74,13284.11,"most active customer",21328,Corporate,East,"New York",Hicksville,11801
+"Bobby Dorsey",8808.32,74,13284.11,"most active customer",23757,Corporate,East,"New York",Hicksville,11801
+"Bobby Dorsey",8808.32,74,13284.11,"most active customer",23758,Corporate,East,"New York",Hicksville,11801
+"Bobby Dorsey",8808.32,74,13284.11,"most active customer",25299,Corporate,East,"New York",Hicksville,11801
+"Christopher Meadows",8804.81,43,15309.4,others,18566,"Small Business",East,"New York",Harrison,10528
+"Christopher Meadows",8804.81,43,15309.4,others,18567,"Small Business",East,"New York",Harrison,10528
+"Christopher Meadows",8804.81,43,15309.4,others,18568,"Small Business",East,"New York",Harrison,10528
+"Christopher Meadows",8804.81,43,15309.4,others,19084,"Small Business",East,"New York",Harrison,10528
+"Christopher Meadows",8804.81,43,15309.4,others,19085,"Small Business",East,"New York",Harrison,10528
+"George Shields",8774.65,56,16352.48,"most active customer",24318,Corporate,Central,Oklahoma,Stillwater,74074
+"George Shields",8774.65,56,16352.48,"most active customer",24383,Corporate,Central,Oklahoma,Stillwater,74074
+"George Shields",8774.65,56,16352.48,"most active customer",24384,Corporate,Central,Oklahoma,Stillwater,74074
+"George Shields",8774.65,56,16352.48,"most active customer",25435,Corporate,Central,Oklahoma,Stillwater,74074
+"George Shields",8774.65,56,16352.48,"most active customer",25436,Corporate,Central,Oklahoma,Stillwater,74074
+"George Shields",8774.65,56,16352.48,"most active customer",25114,Corporate,Central,Oklahoma,Stillwater,74074
+"Miriam Snow",8759.73,79,13128.18,"most active customer",21439,"Home Office",Central,Texas,Tyler,75701
+"Miriam Snow",8759.73,79,13128.18,"most active customer",21444,"Small Business",Central,Texas,Tyler,75701
+"Miriam Snow",8759.73,79,13128.18,"most active customer",21445,"Small Business",Central,Texas,Tyler,75701
+"Frank Cross",8654.06,205,44016.49,"most active customer",1008,Corporate,East,"New York","New York City",10177
+"Frank Cross",8654.06,205,44016.49,"most active customer",5771,Corporate,East,"New York","New York City",10177
+"Frank Cross",8654.06,205,44016.49,"most active customer",3571,Corporate,East,"New York","New York City",10177
+"Frank Cross",8654.06,205,44016.49,"most active customer",3572,Corporate,East,"New York","New York City",10177
+"Frank Cross",8654.06,205,44016.49,"most active customer",5770,Corporate,East,"New York","New York City",10177
+"Ruth Stout",8434.54,36,14511.03,"most active customer",21165,Corporate,West,California,"Foster City",94404
+"Ruth Stout",8434.54,36,14511.03,"most active customer",24263,Corporate,West,California,"Foster City",94404
+"Ruth Stout",8434.54,36,14511.03,"most active customer",23047,Corporate,West,California,"Foster City",94404
+"Ruth Stout",8434.54,36,14511.03,"most active customer",25361,Corporate,West,California,"Foster City",94404
+"Ruth Stout",8434.54,36,14511.03,"most active customer",24437,Corporate,West,California,"Foster City",94404
+"Alfred Barber",8368.8,84,20072.38,"most active customer",23501,Corporate,Central,Missouri,Mehlville,63129
+"Alfred Barber",8368.8,84,20072.38,"most active customer",23789,Corporate,Central,Missouri,Mehlville,63129
+"Alfred Barber",8368.8,84,20072.38,"most active customer",23788,Corporate,Central,Missouri,Mehlville,63129
+"Alfred Barber",8368.8,84,20072.38,"most active customer",23787,Corporate,Central,Missouri,Mehlville,63129
+"Alfred Barber",8368.8,84,20072.38,"most active customer",23450,"Home Office",Central,Missouri,Mehlville,63129
+"Alfred Barber",8368.8,84,20072.38,"most active customer",23786,Corporate,Central,Missouri,Mehlville,63129
+"Alfred Barber",8368.8,84,20072.38,"most active customer",23502,Corporate,Central,Missouri,Mehlville,63129
+"Donald Montgomery",8007.35,44,12933.97,"active customer",21962,"Small Business",West,Oregon,Portland,97206
+"Donald Montgomery",8007.35,44,12933.97,"active customer",18934,"Small Business",West,Oregon,Portland,97206
+"Donald Montgomery",8007.35,44,12933.97,"active customer",18935,"Small Business",West,Oregon,Portland,97206
+"Donald Montgomery",8007.35,44,12933.97,"active customer",21623,"Small Business",West,Oregon,Portland,97206
+"Rick Ellis",7730.01,58,2267.29,"active customer",22022,"Small Business",South,Virginia,Springfield,22153
+"Rick Ellis",7730.01,58,2267.29,"active customer",22021,"Small Business",South,Virginia,Springfield,22153
+"Rick Ellis",7730.01,58,2267.29,"active customer",21331,"Home Office",South,Virginia,Springfield,22153
+"Rick Ellis",7730.01,58,2267.29,"active customer",23439,"Small Business",South,Virginia,Springfield,22153
+"Rick Ellis",7730.01,58,2267.29,"active customer",20330,"Home Office",South,Virginia,Springfield,22153
+"Rick Ellis",7730.01,58,2267.29,"active customer",20329,"Home Office",South,Virginia,Springfield,22153
+"Rick Ellis",7730.01,58,2267.29,"active customer",19583,"Small Business",South,Virginia,Springfield,22153
+"Rick Ellis",7730.01,58,2267.29,"active customer",19902,"Home Office",South,Virginia,Springfield,22153
+"Ken H Frazier",7681.04,33,1044.44,others,19000,Consumer,South,Virginia,Oakton,22124
+"Ken H Frazier",7681.04,33,1044.44,others,18172,Consumer,South,Virginia,Oakton,22124
+"Ken H Frazier",7681.04,33,1044.44,others,19667,Consumer,South,Virginia,Oakton,22124
+"Ken H Frazier",7681.04,33,1044.44,others,19001,Consumer,South,Virginia,Oakton,22124
+"Mary Larson",7608.04,37,12952.11,others,18807,"Small Business",Central,Minnesota,Woodbury,55125
+"Mary Larson",7608.04,37,12952.11,others,18315,"Home Office",Central,Minnesota,Woodbury,55125
+"Mary Larson",7608.04,37,12952.11,others,18314,"Home Office",Central,Minnesota,Woodbury,55125
+"Mary Larson",7608.04,37,12952.11,others,19363,Consumer,Central,Minnesota,Woodbury,55125
+"Patrick Hendrix",7529.14,107,27828.72,"most active customer",20027,"Small Business",East,"New York",Centereach,11720
+"Patrick Hendrix",7529.14,107,27828.72,"most active customer",20026,"Small Business",East,"New York",Centereach,11720
+"Patrick Hendrix",7529.14,107,27828.72,"most active customer",20025,"Small Business",East,"New York",Centereach,11720
+"Patrick Hendrix",7529.14,107,27828.72,"most active customer",19731,"Small Business",East,"New York",Centereach,11720
+"Patrick Hendrix",7529.14,107,27828.72,"most active customer",19730,"Small Business",East,"New York",Centereach,11720
+"Patrick Hendrix",7529.14,107,27828.72,"most active customer",18789,"Small Business",East,"New York",Centereach,11720
+"Patrick Hendrix",7529.14,107,27828.72,"most active customer",20289,"Small Business",East,"New York",Centereach,11720
+"Marguerite Norton",7513.58,111,16774.58,"most active customer",19432,Consumer,Central,Wisconsin,Franklin,53132
+"Marguerite Norton",7513.58,111,16774.58,"most active customer",19433,Consumer,Central,Wisconsin,Franklin,53132
+"Marguerite Norton",7513.58,111,16774.58,"most active customer",19434,Consumer,Central,Wisconsin,Franklin,53132
+"Marguerite Norton",7513.58,111,16774.58,"most active customer",19435,Consumer,Central,Wisconsin,Franklin,53132
+"Marguerite Norton",7513.58,111,16774.58,"most active customer",19092,"Small Business",Central,Wisconsin,Franklin,53132
+"Anita Kang",7458.67,82,19719.22,"most active customer",21479,Corporate,Central,Illinois,Mundelein,60060
+"Anita Kang",7458.67,82,19719.22,"most active customer",21478,Corporate,Central,Illinois,Mundelein,60060
+"Anita Kang",7458.67,82,19719.22,"most active customer",19727,Corporate,Central,Illinois,Mundelein,60060
+"Anita Kang",7458.67,82,19719.22,"most active customer",19154,Corporate,Central,Illinois,Mundelein,60060
+"Anita Kang",7458.67,82,19719.22,"most active customer",21711,Corporate,Central,Illinois,Mundelein,60060
+"Anita Kang",7458.67,82,19719.22,"most active customer",19258,Corporate,Central,Illinois,Mundelein,60060
+"Anita Kang",7458.67,82,19719.22,"most active customer",20483,Corporate,Central,Illinois,Mundelein,60060
+"Joshua Keller",7430.03,84,11905.54,"most active customer",25530,"Small Business",Central,Illinois,Schaumburg,60193
+"Joshua Keller",7430.03,84,11905.54,"most active customer",25344,"Small Business",Central,Illinois,Schaumburg,60193
+"Joshua Keller",7430.03,84,11905.54,"most active customer",25343,"Small Business",Central,Illinois,Schaumburg,60193
+"Shirley Meadows",7362.3,74,13465.07,others,21794,Consumer,Central,Texas,Corsicana,75109
+"Shirley Meadows",7362.3,74,13465.07,others,21795,Consumer,Central,Texas,Corsicana,75109
+"Shirley Meadows",7362.3,74,13465.07,others,19579,Consumer,Central,Texas,Corsicana,75109
+"Shirley Meadows",7362.3,74,13465.07,others,19580,Consumer,Central,Texas,Corsicana,75109
+"Shelley Grant",7278.72,46,10887.77,"most active customer",21572,Corporate,Central,Missouri,"Jefferson City",65109
+"Shelley Grant",7278.72,46,10887.77,"most active customer",21571,Corporate,Central,Missouri,"Jefferson City",65109
+"Shelley Grant",7278.72,46,10887.77,"most active customer",23771,Corporate,Central,Missouri,"Jefferson City",65109
+"Shelley Grant",7278.72,46,10887.77,"most active customer",23770,Corporate,Central,Missouri,"Jefferson City",65109
+"Rosemary O'Brien",7272.49,693,86540.75,"most active customer",7097,Consumer,East,"New York","New York City",10165
+"Rosemary O'Brien",7272.49,693,86540.75,"most active customer",7095,Consumer,East,"New York","New York City",10165
+"Rosemary O'Brien",7272.49,693,86540.75,"most active customer",5927,Consumer,East,"New York","New York City",10165
+"Rosemary O'Brien",7272.49,693,86540.75,"most active customer",1580,Consumer,East,"New York","New York City",10165
+"Rosemary O'Brien",7272.49,693,86540.75,"most active customer",1579,Consumer,East,"New York","New York City",10165
+"Rosemary O'Brien",7272.49,693,86540.75,"most active customer",4038,Consumer,East,"New York","New York City",10165
+"Rosemary O'Brien",7272.49,693,86540.75,"most active customer",3795,Consumer,East,"New York","New York City",10165
+"Rosemary O'Brien",7272.49,693,86540.75,"most active customer",3794,Consumer,East,"New York","New York City",10165
+"Rosemary O'Brien",7272.49,693,86540.75,"most active customer",5285,Consumer,East,"New York","New York City",10165
+"Rosemary O'Brien",7272.49,693,86540.75,"most active customer",5284,Consumer,East,"New York","New York City",10165
+"Rosemary O'Brien",7272.49,693,86540.75,"most active customer",5283,Consumer,East,"New York","New York City",10165
+"Rosemary O'Brien",7272.49,693,86540.75,"most active customer",7098,Consumer,East,"New York","New York City",10165
+"Rosemary O'Brien",7272.49,693,86540.75,"most active customer",7096,Consumer,East,"New York","New York City",10165
+"Gordon Brandt",7228.9,748,123745.62,"most active customer",4444,Corporate,West,California,"Los Angeles",90061
+"Gordon Brandt",7228.9,748,123745.62,"most active customer",6041,Corporate,West,California,"Los Angeles",90061
+"Gordon Brandt",7228.9,748,123745.62,"most active customer",987,Corporate,West,California,"Los Angeles",90061
+"Gordon Brandt",7228.9,748,123745.62,"most active customer",986,Corporate,West,California,"Los Angeles",90061
+"Gordon Brandt",7228.9,748,123745.62,"most active customer",985,Corporate,West,California,"Los Angeles",90061
+"Gordon Brandt",7228.9,748,123745.62,"most active customer",5235,Corporate,West,California,"Los Angeles",90061
+"Gordon Brandt",7228.9,748,123745.62,"most active customer",5234,Corporate,West,California,"Los Angeles",90061
+"Gordon Brandt",7228.9,748,123745.62,"most active customer",5233,Corporate,West,California,"Los Angeles",90061
+"Gordon Brandt",7228.9,748,123745.62,"most active customer",5232,Corporate,West,California,"Los Angeles",90061
+"Gordon Brandt",7228.9,748,123745.62,"most active customer",4281,Corporate,West,California,"Los Angeles",90061
+"Gordon Brandt",7228.9,748,123745.62,"most active customer",4280,Corporate,West,California,"Los Angeles",90061
+"Gordon Brandt",7228.9,748,123745.62,"most active customer",3443,Corporate,West,California,"Los Angeles",90061
+"Gordon Brandt",7228.9,748,123745.62,"most active customer",5498,Corporate,West,California,"Los Angeles",90061
+"Gordon Brandt",7228.9,748,123745.62,"most active customer",5497,Corporate,West,California,"Los Angeles",90061
+"Gordon Brandt",7228.9,748,123745.62,"most active customer",5496,Corporate,West,California,"Los Angeles",90061
+"Gordon Brandt",7228.9,748,123745.62,"most active customer",2063,Corporate,West,California,"Los Angeles",90061
+"Kyle Bloom",7223.67,30,7767.55,"active customer",22635,Consumer,South,"North Carolina","Fort Bragg",28307
+"Kyle Bloom",7223.67,30,7767.55,"active customer",22636,Consumer,South,"North Carolina","Fort Bragg",28307
+"Kyle Bloom",7223.67,30,7767.55,"active customer",26101,Consumer,South,"North Carolina","Fort Bragg",28307
+"Kyle Bloom",7223.67,30,7767.55,"active customer",22055,Consumer,South,"North Carolina","Fort Bragg",28307
+"Caroline Morton",7221.82,322,52806.01,"most active customer",7299,Corporate,South,Florida,Miami,33178
+"Caroline Morton",7221.82,322,52806.01,"most active customer",5758,Corporate,South,Florida,Miami,33178
+"Caroline Morton",7221.82,322,52806.01,"most active customer",5757,Corporate,South,Florida,Miami,33178
+"Caroline Morton",7221.82,322,52806.01,"most active customer",2915,Corporate,South,Florida,Miami,33178
+"Caroline Morton",7221.82,322,52806.01,"most active customer",3328,Corporate,South,Florida,Miami,33178
+"Caroline Morton",7221.82,322,52806.01,"most active customer",3327,Corporate,South,Florida,Miami,33178
+"Juanita Ballard",7188.14,95,21661.96,"most active customer",24872,"Small Business",East,Ohio,Kent,44240
+"Juanita Ballard",7188.14,95,21661.96,"most active customer",24522,"Small Business",East,Ohio,Kent,44240
+"Juanita Ballard",7188.14,95,21661.96,"most active customer",25180,"Small Business",East,Ohio,Kent,44240
+"Juanita Ballard",7188.14,95,21661.96,"most active customer",25886,Corporate,East,Ohio,Kent,44240
+"Juanita Ballard",7188.14,95,21661.96,"most active customer",25317,"Small Business",East,Ohio,Kent,44240
+"Juanita Ballard",7188.14,95,21661.96,"most active customer",24871,"Small Business",East,Ohio,Kent,44240
+"Juanita Ballard",7188.14,95,21661.96,"most active customer",25791,"Small Business",East,Ohio,Kent,44240
+"Juanita Ballard",7188.14,95,21661.96,"most active customer",25792,"Small Business",East,Ohio,Kent,44240
+"Brad Stark",7051.46,35,5404.04,"most active customer",25113,"Home Office",South,"North Carolina",Eden,27288
+"Brad Stark",7051.46,35,5404.04,"most active customer",26392,"Home Office",South,"North Carolina",Eden,27288
+"Brad Stark",7051.46,35,5404.04,"most active customer",25112,"Home Office",South,"North Carolina",Eden,27288
+"Brad Stark",7051.46,35,5404.04,"most active customer",24975,"Small Business",South,"North Carolina",Eden,27288
+"Jeanette Davies",7024.21,15,10180.01,others,18217,"Home Office",East,Maine,Bangor,4401
+"Pamela C Kane",6914.13,20,10020.48,"can not lose",22255,Corporate,East,"New Jersey","Maple Shade",8052
+"Ellen Kirkland",6761.29,97,11765.4,others,23714,"Home Office",Central,Indiana,Marion,46952
+"Ellen Kirkland",6761.29,97,11765.4,others,22151,Consumer,Central,Indiana,Marion,46952
+"Ellen Kirkland",6761.29,97,11765.4,others,23857,Consumer,Central,Indiana,Marion,46952
+"Ellen Kirkland",6761.29,97,11765.4,others,22844,Consumer,Central,Indiana,Marion,46952
+"Ellen Kirkland",6761.29,97,11765.4,others,23715,"Home Office",Central,Indiana,Marion,46952
+"Ellen Kirkland",6761.29,97,11765.4,others,25924,"Home Office",Central,Indiana,Marion,46952
+"Ellen Kirkland",6761.29,97,11765.4,others,25925,"Home Office",Central,Indiana,Marion,46952
+"Lillian Day",6674.65,56,9847.61,"most active customer",26036,"Small Business",East,Ohio,"Shaker Heights",44118
+"Lillian Day",6674.65,56,9847.61,"most active customer",25019,"Small Business",East,Ohio,"Shaker Heights",44118
+"Lillian Day",6674.65,56,9847.61,"most active customer",26082,Consumer,East,Ohio,"Shaker Heights",44118
+"Lillian Day",6674.65,56,9847.61,"most active customer",26037,"Small Business",East,Ohio,"Shaker Heights",44118
+"Lillian Day",6674.65,56,9847.61,"most active customer",25761,"Small Business",East,Ohio,"Shaker Heights",44118
+"Evan Shore",6644.64,9,9629.91,others,21668,Corporate,East,"New Jersey","Atlantic City",8401
+"Kelly Byers",6593.4,58,12762.61,"most active customer",22098,Consumer,West,Oregon,Woodburn,97071
+"Kelly Byers",6593.4,58,12762.61,"most active customer",22094,Consumer,West,Oregon,Woodburn,97071
+"Kelly Byers",6593.4,58,12762.61,"most active customer",23003,Corporate,West,Oregon,Woodburn,97071
+"Kelly Byers",6593.4,58,12762.61,"most active customer",23259,Corporate,West,Oregon,Woodburn,97071
+"Kelly Byers",6593.4,58,12762.61,"most active customer",22097,Consumer,West,Oregon,Woodburn,97071
+"Kelly Byers",6593.4,58,12762.61,"most active customer",22096,Consumer,West,Oregon,Woodburn,97071
+"Kelly Byers",6593.4,58,12762.61,"most active customer",22095,Consumer,West,Oregon,Woodburn,97071
+"Valerie Hahn",6576.02,49,11994.19,"most active customer",22170,Consumer,West,Washington,Bothell,98011
+"Valerie Hahn",6576.02,49,11994.19,"most active customer",22171,Consumer,West,Washington,Bothell,98011
+"Valerie Hahn",6576.02,49,11994.19,"most active customer",22165,Consumer,West,Washington,Bothell,98011
+"Valerie Hahn",6576.02,49,11994.19,"most active customer",22166,Consumer,West,Washington,Bothell,98011
+"Valerie Hahn",6576.02,49,11994.19,"most active customer",22167,Consumer,West,Washington,Bothell,98011
+"Randall Montgomery",6500.67,120,10245,"most active customer",20697,Consumer,East,"New York",Tonawanda,14150
+"Randall Montgomery",6500.67,120,10245,"most active customer",20698,Consumer,East,"New York",Tonawanda,14150
+"Randall Montgomery",6500.67,120,10245,"most active customer",19970,Consumer,East,"New York",Tonawanda,14150
+"Randall Montgomery",6500.67,120,10245,"most active customer",24218,Consumer,East,"New York",Tonawanda,14150
+"Randall Montgomery",6500.67,120,10245,"most active customer",23305,Consumer,East,"New York",Tonawanda,14150
+"Randall Montgomery",6500.67,120,10245,"most active customer",23306,Consumer,East,"New York",Tonawanda,14150
+"Randall Montgomery",6500.67,120,10245,"most active customer",22008,Consumer,East,"New York",Tonawanda,14150
+"Randall Montgomery",6500.67,120,10245,"most active customer",22009,Consumer,East,"New York",Tonawanda,14150
+"Glen Caldwell",6469.93,986,89269.7,"most active customer",5730,Consumer,West,Washington,Seattle,98115
+"Glen Caldwell",6469.93,986,89269.7,"most active customer",224,Consumer,West,Washington,Seattle,98115
+"Glen Caldwell",6469.93,986,89269.7,"most active customer",5686,Consumer,West,Washington,Seattle,98115
+"Glen Caldwell",6469.93,986,89269.7,"most active customer",2933,"Small Business",West,Washington,Seattle,98115
+"Glen Caldwell",6469.93,986,89269.7,"most active customer",5303,"Small Business",West,Washington,Seattle,98115
+"Glen Caldwell",6469.93,986,89269.7,"most active customer",4189,"Small Business",West,Washington,Seattle,98115
+"Glen Caldwell",6469.93,986,89269.7,"most active customer",5335,"Small Business",West,Washington,Seattle,98115
+"Glen Caldwell",6469.93,986,89269.7,"most active customer",2672,Consumer,West,Washington,Seattle,98115
+"Glen Caldwell",6469.93,986,89269.7,"most active customer",2621,"Small Business",West,Washington,Seattle,98115
+"Glen Caldwell",6469.93,986,89269.7,"most active customer",6816,Consumer,West,Washington,Seattle,98115
+"Glen Caldwell",6469.93,986,89269.7,"most active customer",4561,"Small Business",West,Washington,Seattle,98115
+"Glen Caldwell",6469.93,986,89269.7,"most active customer",4708,Consumer,West,Washington,Seattle,98115
+"Glen Caldwell",6469.93,986,89269.7,"most active customer",4217,Consumer,West,Washington,Seattle,98115
+"Glen Caldwell",6469.93,986,89269.7,"most active customer",4216,Consumer,West,Washington,Seattle,98115
+"Glen Caldwell",6469.93,986,89269.7,"most active customer",5688,Consumer,West,Washington,Seattle,98115
+"Glen Caldwell",6469.93,986,89269.7,"most active customer",5687,Consumer,West,Washington,Seattle,98115
+"Glen Caldwell",6469.93,986,89269.7,"most active customer",2932,"Small Business",West,Washington,Seattle,98115
+"Glen Caldwell",6469.93,986,89269.7,"most active customer",6149,Consumer,West,Washington,Seattle,98115
+"Glen Caldwell",6469.93,986,89269.7,"most active customer",6148,Consumer,West,Washington,Seattle,98115
+"Glen Caldwell",6469.93,986,89269.7,"most active customer",3410,Consumer,West,Washington,Seattle,98115
+"Glen Caldwell",6469.93,986,89269.7,"most active customer",5302,"Small Business",West,Washington,Seattle,98115
+"Ruth Lamm",6438.24,121,13703.35,"most active customer",20812,"Small Business",Central,Illinois,"Vernon Hills",60061
+"Ruth Lamm",6438.24,121,13703.35,"most active customer",24783,"Small Business",Central,Illinois,"Vernon Hills",60061
+"Ruth Lamm",6438.24,121,13703.35,"most active customer",22362,"Small Business",Central,Illinois,"Vernon Hills",60061
+"Ruth Lamm",6438.24,121,13703.35,"most active customer",21418,"Small Business",Central,Illinois,"Vernon Hills",60061
+"Ruth Lamm",6438.24,121,13703.35,"most active customer",21419,"Small Business",Central,Illinois,"Vernon Hills",60061
+"Ruth Lamm",6438.24,121,13703.35,"most active customer",23877,"Small Business",Central,Illinois,"Vernon Hills",60061
+"Ruth Lamm",6438.24,121,13703.35,"most active customer",25716,Corporate,Central,Illinois,"Vernon Hills",60061
+"Carlos Hanson",6404.32,92,11979.27,others,20863,Corporate,Central,"South Dakota","Rapid City",57701
+"Carlos Hanson",6404.32,92,11979.27,others,22188,"Home Office",Central,"South Dakota","Rapid City",57701
+"Carlos Hanson",6404.32,92,11979.27,others,18535,"Home Office",Central,"South Dakota","Rapid City",57701
+"Carlos Hanson",6404.32,92,11979.27,others,18534,"Home Office",Central,"South Dakota","Rapid City",57701
+"Carlos Hanson",6404.32,92,11979.27,others,18870,"Home Office",Central,"South Dakota","Rapid City",57701
+"Carlos Hanson",6404.32,92,11979.27,others,19295,Corporate,Central,"South Dakota","Rapid City",57701
+"Carlos Hanson",6404.32,92,11979.27,others,19294,Corporate,Central,"South Dakota","Rapid City",57701
+"Joel Burnette",6132.91,34,1193.22,others,23342,Corporate,South,Georgia,Dunwoody,30338
+"Joel Burnette",6132.91,34,1193.22,others,21082,"Home Office",South,Georgia,Dunwoody,30338
+"Joel Burnette",6132.91,34,1193.22,others,21083,"Home Office",South,Georgia,Dunwoody,30338
+"Joel Burnette",6132.91,34,1193.22,others,22025,Corporate,South,Georgia,Dunwoody,30338
+"Joel Burnette",6132.91,34,1193.22,others,22026,Corporate,South,Georgia,Dunwoody,30338
+"Valerie Whitfield",6091.98,33,9196.47,"most active customer",18286,Corporate,East,Pennsylvania,"West Mifflin",15122
+"Valerie Whitfield",6091.98,33,9196.47,"most active customer",18287,Corporate,East,Pennsylvania,"West Mifflin",15122
+"Lester Sawyer",6059.54,39,3063.14,others,19373,"Home Office",South,Virginia,Fairfax,20151
+"Lester Sawyer",6059.54,39,3063.14,others,24392,"Home Office",South,Virginia,Fairfax,20151
+"Lester Sawyer",6059.54,39,3063.14,others,23249,"Home Office",South,Virginia,Fairfax,20151
+"Scott McKenna",6049.14,37,10234.72,others,25379,Corporate,East,Ohio,Steubenville,43952
+"Scott McKenna",6049.14,37,10234.72,others,22999,Corporate,East,Ohio,Steubenville,43952
+"Scott McKenna",6049.14,37,10234.72,others,21718,Corporate,East,Ohio,Steubenville,43952
+"Kara Gregory",5955.02,551,47971.14,"most active customer",2050,Corporate,Central,Illinois,Chicago,60699
+"Kara Gregory",5955.02,551,47971.14,"most active customer",1847,Consumer,Central,Illinois,Chicago,60699
+"Kara Gregory",5955.02,551,47971.14,"most active customer",1846,Consumer,Central,Illinois,Chicago,60699
+"Kara Gregory",5955.02,551,47971.14,"most active customer",5903,Corporate,Central,Illinois,Chicago,60699
+"Kara Gregory",5955.02,551,47971.14,"most active customer",5902,Corporate,Central,Illinois,Chicago,60699
+"Kara Gregory",5955.02,551,47971.14,"most active customer",4081,Consumer,Central,Illinois,Chicago,60699
+"Kara Gregory",5955.02,551,47971.14,"most active customer",4080,Consumer,Central,Illinois,Chicago,60699
+"Kara Gregory",5955.02,551,47971.14,"most active customer",8375,Consumer,Central,Illinois,Chicago,60699
+"Kara Gregory",5955.02,551,47971.14,"most active customer",8374,Consumer,Central,Illinois,Chicago,60699
+"Kara Gregory",5955.02,551,47971.14,"most active customer",1796,Consumer,Central,Illinois,Chicago,60699
+"Kara Gregory",5955.02,551,47971.14,"most active customer",1795,Consumer,Central,Illinois,Chicago,60699
+"Kara Gregory",5955.02,551,47971.14,"most active customer",573,Consumer,Central,Illinois,Chicago,60699
+"Brian Bennett",5927.44,34,9270.87,"most active customer",22662,"Small Business",East,"New York",Cheektowaga,14225
+"Brian Bennett",5927.44,34,9270.87,"most active customer",22663,"Small Business",East,"New York",Cheektowaga,14225
+"Brian Bennett",5927.44,34,9270.87,"most active customer",22312,"Small Business",East,"New York",Cheektowaga,14225
+"Steve Martin",5858.79,63,12299.96,"most active customer",19449,Consumer,West,Washington,Bellevue,98006
+"Steve Martin",5858.79,63,12299.96,"most active customer",19448,Consumer,West,Washington,Bellevue,98006
+"Steve Martin",5858.79,63,12299.96,"most active customer",19447,Consumer,West,Washington,Bellevue,98006
+"Steve Martin",5858.79,63,12299.96,"most active customer",19446,Consumer,West,Washington,Bellevue,98006
+"Steve Martin",5858.79,63,12299.96,"most active customer",19831,Consumer,West,Washington,Bellevue,98006
+"Steve Martin",5858.79,63,12299.96,"most active customer",19379,Consumer,West,Washington,Bellevue,98006
+"Karl Knowles",5781.55,108,9351.78,others,23666,"Home Office",Central,Wisconsin,Madison,53711
+"Karl Knowles",5781.55,108,9351.78,others,23583,"Home Office",Central,Wisconsin,Madison,53711
+"Karl Knowles",5781.55,108,9351.78,others,23584,"Home Office",Central,Wisconsin,Madison,53711
+"Karl Knowles",5781.55,108,9351.78,others,24022,"Home Office",Central,Wisconsin,Madison,53711
+"Karl Knowles",5781.55,108,9351.78,others,24023,"Home Office",Central,Wisconsin,Madison,53711
+"Karl Knowles",5781.55,108,9351.78,others,24919,"Home Office",Central,Wisconsin,Madison,53711
+"Karl Knowles",5781.55,108,9351.78,others,19610,"Home Office",Central,Wisconsin,Madison,53711
+"Erin Brandt Spivey",5778.4,82,8952.56,"most active customer",18888,Corporate,Central,Michigan,"Lincoln Park",48146
+"Erin Brandt Spivey",5778.4,82,8952.56,"most active customer",18889,Corporate,Central,Michigan,"Lincoln Park",48146
+"Erin Brandt Spivey",5778.4,82,8952.56,"most active customer",20453,Corporate,Central,Michigan,"Lincoln Park",48146
+"Erin Brandt Spivey",5778.4,82,8952.56,"most active customer",20454,Corporate,Central,Michigan,"Lincoln Park",48146
+"Erin Brandt Spivey",5778.4,82,8952.56,"most active customer",19013,Corporate,Central,Michigan,"Lincoln Park",48146
+"Erin Brandt Spivey",5778.4,82,8952.56,"most active customer",19014,Corporate,Central,Michigan,"Lincoln Park",48146
+"Ken Watson",5759.44,26,2147.85,others,19742,"Home Office",South,Florida,Tallahassee,32303
+"Ken Watson",5759.44,26,2147.85,others,19743,"Home Office",South,Florida,Tallahassee,32303
+"Ken Watson",5759.44,26,2147.85,others,19744,"Home Office",South,Florida,Tallahassee,32303
+"Carolyn Bowling",5690.73,30,2817.39,"active customer",20857,"Small Business",South,Virginia,Blacksburg,24060
+"Carolyn Bowling",5690.73,30,2817.39,"active customer",18168,"Small Business",South,Virginia,Blacksburg,24060
+"Carolyn Bowling",5690.73,30,2817.39,"active customer",21492,"Small Business",South,Virginia,Blacksburg,24060
+"Carolyn Bowling",5690.73,30,2817.39,"active customer",21491,"Small Business",South,Virginia,Blacksburg,24060
+"Walter Young",5668.17,52,12588.57,others,20086,Corporate,West,Utah,"Pleasant Grove",84062
+"Walter Young",5668.17,52,12588.57,others,18991,Corporate,West,Utah,"Pleasant Grove",84062
+"Walter Young",5668.17,52,12588.57,others,18064,Corporate,West,Utah,"Pleasant Grove",84062
+"Walter Young",5668.17,52,12588.57,others,19115,Corporate,West,Utah,"Pleasant Grove",84062
+"Walter Young",5668.17,52,12588.57,others,18349,Corporate,West,Utah,"Pleasant Grove",84062
+"Geoffrey H Wong",5583.84,68,2187.87,"most active customer",21833,Corporate,South,Georgia,Rome,30161
+"Geoffrey H Wong",5583.84,68,2187.87,"most active customer",21832,Corporate,South,Georgia,Rome,30161
+"Geoffrey H Wong",5583.84,68,2187.87,"most active customer",19091,Corporate,South,Georgia,Rome,30161
+"Geoffrey H Wong",5583.84,68,2187.87,"most active customer",24435,Corporate,South,Georgia,Rome,30161
+"Geoffrey H Wong",5583.84,68,2187.87,"most active customer",19570,Corporate,South,Georgia,Rome,30161
+"Geoffrey H Wong",5583.84,68,2187.87,"most active customer",19569,Corporate,South,Georgia,Rome,30161
+"Geoffrey H Wong",5583.84,68,2187.87,"most active customer",20188,Corporate,South,Georgia,Rome,30161
+"Geoffrey H Wong",5583.84,68,2187.87,"most active customer",20187,Corporate,South,Georgia,Rome,30161
+"Edward Pugh",5549.28,76,8060.47,"most active customer",24338,Consumer,West,"New Mexico","Santa Fe",87505
+"Edward Pugh",5549.28,76,8060.47,"most active customer",24337,Consumer,West,"New Mexico","Santa Fe",87505
+"Edward Pugh",5549.28,76,8060.47,"most active customer",18011,Consumer,West,"New Mexico","Santa Fe",87505
+"Neal Wolfe",5529.45,864,69118,others,7293,Consumer,West,Washington,Seattle,98119
+"Neal Wolfe",5529.45,864,69118,others,7292,Consumer,West,Washington,Seattle,98119
+"Neal Wolfe",5529.45,864,69118,others,444,Consumer,West,Washington,Seattle,98119
+"Neal Wolfe",5529.45,864,69118,others,6426,Consumer,West,Washington,Seattle,98119
+"Neal Wolfe",5529.45,864,69118,others,5851,Consumer,West,Washington,Seattle,98119
+"Neal Wolfe",5529.45,864,69118,others,5850,Consumer,West,Washington,Seattle,98119
+"Neal Wolfe",5529.45,864,69118,others,2705,Consumer,West,Washington,Seattle,98119
+"Neal Wolfe",5529.45,864,69118,others,2704,Consumer,West,Washington,Seattle,98119
+"Neal Wolfe",5529.45,864,69118,others,2703,Consumer,West,Washington,Seattle,98119
+"Neal Wolfe",5529.45,864,69118,others,1087,Consumer,West,Washington,Seattle,98119
+"Neal Wolfe",5529.45,864,69118,others,1086,Consumer,West,Washington,Seattle,98119
+"Neal Wolfe",5529.45,864,69118,others,2417,Consumer,West,Washington,Seattle,98119
+"Neal Wolfe",5529.45,864,69118,others,6388,Consumer,West,Washington,Seattle,98119
+"Neal Wolfe",5529.45,864,69118,others,6387,Consumer,West,Washington,Seattle,98119
+"Neal Wolfe",5529.45,864,69118,others,1539,Consumer,West,Washington,Seattle,98119
+"Neal Wolfe",5529.45,864,69118,others,7893,Consumer,West,Washington,Seattle,98119
+"Priscilla Kane",5504.26,948,61610.6,"most active customer",1801,Corporate,Central,Texas,Houston,77070
+"Priscilla Kane",5504.26,948,61610.6,"most active customer",1802,Corporate,Central,Texas,Houston,77070
+"Priscilla Kane",5504.26,948,61610.6,"most active customer",7568,Corporate,Central,Texas,Houston,77070
+"Priscilla Kane",5504.26,948,61610.6,"most active customer",6168,Corporate,Central,Texas,Houston,77070
+"Priscilla Kane",5504.26,948,61610.6,"most active customer",6169,Corporate,Central,Texas,Houston,77070
+"Priscilla Kane",5504.26,948,61610.6,"most active customer",6170,Corporate,Central,Texas,Houston,77070
+"Priscilla Kane",5504.26,948,61610.6,"most active customer",6171,Corporate,Central,Texas,Houston,77070
+"Priscilla Kane",5504.26,948,61610.6,"most active customer",6172,Corporate,Central,Texas,Houston,77070
+"Priscilla Kane",5504.26,948,61610.6,"most active customer",6449,Corporate,Central,Texas,Houston,77070
+"Priscilla Kane",5504.26,948,61610.6,"most active customer",6548,"Home Office",Central,Texas,Houston,77070
+"Priscilla Kane",5504.26,948,61610.6,"most active customer",6549,"Home Office",Central,Texas,Houston,77070
+"Priscilla Kane",5504.26,948,61610.6,"most active customer",6550,"Home Office",Central,Texas,Houston,77070
+"Priscilla Kane",5504.26,948,61610.6,"most active customer",4504,Corporate,Central,Texas,Houston,77070
+"Priscilla Kane",5504.26,948,61610.6,"most active customer",5165,"Home Office",Central,Texas,Houston,77070
+"Priscilla Kane",5504.26,948,61610.6,"most active customer",6833,"Home Office",Central,Texas,Houston,77070
+"Priscilla Kane",5504.26,948,61610.6,"most active customer",6834,"Home Office",Central,Texas,Houston,77070
+"Priscilla Kane",5504.26,948,61610.6,"most active customer",6835,"Home Office",Central,Texas,Houston,77070
+"Priscilla Kane",5504.26,948,61610.6,"most active customer",6173,Corporate,Central,Texas,Houston,77070
+"Priscilla Kane",5504.26,948,61610.6,"most active customer",2392,Corporate,Central,Texas,Houston,77070
+"Max Hubbard",5420.18,60,7671.37,others,22839,"Home Office",South,Florida,"Winter Park",32789
+"Max Hubbard",5420.18,60,7671.37,others,22057,Corporate,South,Florida,"Winter Park",32789
+"Max Hubbard",5420.18,60,7671.37,others,22058,Corporate,South,Florida,"Winter Park",32789
+"Max Hubbard",5420.18,60,7671.37,others,22059,Corporate,South,Florida,"Winter Park",32789
+"Max Hubbard",5420.18,60,7671.37,others,20613,"Home Office",South,Florida,"Winter Park",32789
+"Max Hubbard",5420.18,60,7671.37,others,20614,"Home Office",South,Florida,"Winter Park",32789
+"Max Hubbard",5420.18,60,7671.37,others,20958,"Home Office",South,Florida,"Winter Park",32789
+"Max Hubbard",5420.18,60,7671.37,others,20959,"Home Office",South,Florida,"Winter Park",32789
+"Pat Kinney",5403.8,34,7831.6,others,19934,"Small Business",Central,"South Dakota",Watertown,57201
+"Pat Kinney",5403.8,34,7831.6,others,19242,"Small Business",Central,"South Dakota",Watertown,57201
+"Nancy Schwartz",5379.5,21,2232.66,others,22961,Corporate,South,Georgia,Douglasville,30135
+"Stuart Wiley",5377.26,112,11653.85,"most active customer",18330,"Small Business",Central,Illinois,"Crystal Lake",60014
+"Stuart Wiley",5377.26,112,11653.85,"most active customer",18864,Corporate,Central,Illinois,"Crystal Lake",60014
+"Stuart Wiley",5377.26,112,11653.85,"most active customer",18863,Corporate,Central,Illinois,"Crystal Lake",60014
+"Stuart Wiley",5377.26,112,11653.85,"most active customer",19372,Corporate,Central,Illinois,"Crystal Lake",60014
+"Stuart Wiley",5377.26,112,11653.85,"most active customer",19371,Corporate,Central,Illinois,"Crystal Lake",60014
+"Stuart Wiley",5377.26,112,11653.85,"most active customer",19370,Corporate,Central,Illinois,"Crystal Lake",60014
+"Stuart Wiley",5377.26,112,11653.85,"most active customer",18988,Corporate,Central,Illinois,"Crystal Lake",60014
+"Larry Hall",5365.18,101,9384.84,"most active customer",21123,"Small Business",South,Alabama,Birmingham,35211
+"Larry Hall",5365.18,101,9384.84,"most active customer",18865,"Small Business",South,Alabama,Birmingham,35211
+"Larry Hall",5365.18,101,9384.84,"most active customer",18826,"Small Business",South,Alabama,Birmingham,35211
+"Larry Hall",5365.18,101,9384.84,"most active customer",18825,"Small Business",South,Alabama,Birmingham,35211
+"Larry Hall",5365.18,101,9384.84,"most active customer",19536,"Home Office",South,Alabama,Birmingham,35211
+"Larry Hall",5365.18,101,9384.84,"most active customer",19535,"Home Office",South,Alabama,Birmingham,35211
+"Larry Hall",5365.18,101,9384.84,"most active customer",19269,"Home Office",South,Alabama,Birmingham,35211
+"Sean Herbert",5365.09,60,10133.6,"most active customer",22475,"Home Office",Central,Wisconsin,Racine,53402
+"Sean Herbert",5365.09,60,10133.6,"most active customer",22474,"Home Office",Central,Wisconsin,Racine,53402
+"Sean Herbert",5365.09,60,10133.6,"most active customer",22473,"Home Office",Central,Wisconsin,Racine,53402
+"Margaret Olsen",5337.35,40,1854.79,others,26250,Corporate,South,"North Carolina",Monroe,28110
+"Margaret Olsen",5337.35,40,1854.79,others,24104,"Home Office",South,"North Carolina",Monroe,28110
+"Margaret Olsen",5337.35,40,1854.79,others,23904,"Home Office",South,"North Carolina",Monroe,28110
+"Gayle Christian",5326.89,52,9794.54,"active customer",21410,Consumer,East,Maryland,"Perry Hall",21128
+"Gayle Christian",5326.89,52,9794.54,"active customer",20932,"Small Business",East,Maryland,"Perry Hall",21128
+"Gayle Christian",5326.89,52,9794.54,"active customer",20933,"Small Business",East,Maryland,"Perry Hall",21128
+"Gayle Christian",5326.89,52,9794.54,"active customer",22216,Consumer,East,Maryland,"Perry Hall",21128
+"Gayle Christian",5326.89,52,9794.54,"active customer",22217,Consumer,East,Maryland,"Perry Hall",21128
+"Gayle Christian",5326.89,52,9794.54,"active customer",22189,"Small Business",East,Maryland,"Perry Hall",21128
+"Eva Simpson",5318.21,106,9640.24,"most active customer",20431,Corporate,Central,Texas,Carrollton,75007
+"Eva Simpson",5318.21,106,9640.24,"most active customer",20396,Corporate,Central,Texas,Carrollton,75007
+"Eva Simpson",5318.21,106,9640.24,"most active customer",20433,Corporate,Central,Texas,Carrollton,75007
+"Eva Simpson",5318.21,106,9640.24,"most active customer",20432,Corporate,Central,Texas,Carrollton,75007
+"Eva Simpson",5318.21,106,9640.24,"most active customer",18625,Corporate,Central,Texas,Carrollton,75007
+"Eva Simpson",5318.21,106,9640.24,"most active customer",20592,Corporate,Central,Texas,Carrollton,75007
+"Marilyn Bishop",5296.34,47,10559.33,"most active customer",21894,"Small Business",West,"New Mexico",Farmington,87401
+"Marilyn Bishop",5296.34,47,10559.33,"most active customer",21893,"Small Business",West,"New Mexico",Farmington,87401
+"Marilyn Bishop",5296.34,47,10559.33,"most active customer",20924,"Small Business",West,"New Mexico",Farmington,87401
+"Marilyn Bishop",5296.34,47,10559.33,"most active customer",20711,"Small Business",West,"New Mexico",Farmington,87401
+"Sherry Hurley",5277.53,99,1562.46,others,20085,Consumer,South,"North Carolina",Fayetteville,28314
+"Sherry Hurley",5277.53,99,1562.46,others,18202,Consumer,South,"North Carolina",Fayetteville,28314
+"Sherry Hurley",5277.53,99,1562.46,others,18201,Consumer,South,"North Carolina",Fayetteville,28314
+"Sherry Hurley",5277.53,99,1562.46,others,18200,Consumer,South,"North Carolina",Fayetteville,28314
+"Sherry Hurley",5277.53,99,1562.46,others,20721,Consumer,South,"North Carolina",Fayetteville,28314
+"Sherry Hurley",5277.53,99,1562.46,others,20720,Consumer,South,"North Carolina",Fayetteville,28314
+"Sherry Hurley",5277.53,99,1562.46,others,20464,Consumer,South,"North Carolina",Fayetteville,28314
+"Christopher Bryant",5255.6,160,12741.97,others,18444,Consumer,West,California,"Santa Clara",95051
+"Christopher Bryant",5255.6,160,12741.97,others,20705,Consumer,West,California,"Santa Clara",95051
+"Christopher Bryant",5255.6,160,12741.97,others,20704,Consumer,West,California,"Santa Clara",95051
+"Christopher Bryant",5255.6,160,12741.97,others,20703,Consumer,West,California,"Santa Clara",95051
+"Christopher Bryant",5255.6,160,12741.97,others,19087,Consumer,West,California,"Santa Clara",95051
+"Christopher Bryant",5255.6,160,12741.97,others,19086,Consumer,West,California,"Santa Clara",95051
+"Christopher Bryant",5255.6,160,12741.97,others,20417,Consumer,West,California,"Santa Clara",95051
+"Christopher Bryant",5255.6,160,12741.97,others,19539,Consumer,West,California,"Santa Clara",95051
+"Dennis Block Richardson",5236.01,84,11568.84,others,24552,Consumer,East,"New York","Niagara Falls",14304
+"Dennis Block Richardson",5236.01,84,11568.84,others,23386,Consumer,East,"New York","Niagara Falls",14304
+"Dennis Block Richardson",5236.01,84,11568.84,others,22584,Consumer,East,"New York","Niagara Falls",14304
+"Dennis Block Richardson",5236.01,84,11568.84,others,22585,Consumer,East,"New York","Niagara Falls",14304
+"Dennis Block Richardson",5236.01,84,11568.84,others,22586,Consumer,East,"New York","Niagara Falls",14304
+"Philip Olsen",5174.36,14,7499.07,others,24332,"Home Office",East,Pennsylvania,"Wilkes Barre",18705
+"Jack Hatcher",5172.63,38,8412.62,others,20250,"Home Office",Central,Texas,Greenville,75401
+"Jack Hatcher",5172.63,38,8412.62,others,20249,"Home Office",Central,Texas,Greenville,75401
+"Scott Bunn",5144.76,397,54091.64,"most active customer",5272,Corporate,East,"New York","New York City",10177
+"Scott Bunn",5144.76,397,54091.64,"most active customer",5273,Corporate,East,"New York","New York City",10177
+"Scott Bunn",5144.76,397,54091.64,"most active customer",5274,Corporate,East,"New York","New York City",10177
+"Scott Bunn",5144.76,397,54091.64,"most active customer",7786,Corporate,East,"New York","New York City",10177
+"Scott Bunn",5144.76,397,54091.64,"most active customer",441,Corporate,East,"New York","New York City",10177
+"Scott Bunn",5144.76,397,54091.64,"most active customer",442,Corporate,East,"New York","New York City",10177
+"Scott Bunn",5144.76,397,54091.64,"most active customer",443,Corporate,East,"New York","New York City",10177
+"Scott Bunn",5144.76,397,54091.64,"most active customer",6229,Corporate,East,"New York","New York City",10177
+"Scott Bunn",5144.76,397,54091.64,"most active customer",6230,Corporate,East,"New York","New York City",10177
+"Scott Bunn",5144.76,397,54091.64,"most active customer",3667,Corporate,East,"New York","New York City",10177
+"Thomas Frazier",5111.02,35,8955.34,"most active customer",18297,Consumer,Central,Wisconsin,"Sun Prairie",53590
+"Thomas Frazier",5111.02,35,8955.34,"most active customer",18298,Consumer,Central,Wisconsin,"Sun Prairie",53590
+"Thomas Frazier",5111.02,35,8955.34,"most active customer",18307,"Small Business",Central,Wisconsin,"Sun Prairie",53590
+"Lillian Fischer",5108.42,59,11060.53,"most active customer",26032,Consumer,West,California,"Menlo Park",94025
+"Lillian Fischer",5108.42,59,11060.53,"most active customer",20287,Corporate,West,California,"Menlo Park",94025
+"Lillian Fischer",5108.42,59,11060.53,"most active customer",20288,Corporate,West,California,"Menlo Park",94025
+"Lillian Fischer",5108.42,59,11060.53,"most active customer",25867,Consumer,West,California,"Menlo Park",94025
+"Lillian Fischer",5108.42,59,11060.53,"most active customer",24785,Consumer,West,California,"Menlo Park",94025
+"Lillian Fischer",5108.42,59,11060.53,"most active customer",26033,Consumer,West,California,"Menlo Park",94025
+"Danny Francis Bell",5098.48,66,12071.02,"most active customer",23048,"Home Office",Central,Illinois,"Glendale Heights",60139
+"Danny Francis Bell",5098.48,66,12071.02,"most active customer",22372,"Home Office",Central,Illinois,"Glendale Heights",60139
+"Danny Francis Bell",5098.48,66,12071.02,"most active customer",21716,Corporate,Central,Illinois,"Glendale Heights",60139
+"Danny Francis Bell",5098.48,66,12071.02,"most active customer",20221,"Home Office",Central,Illinois,"Glendale Heights",60139
+"Danny Francis Bell",5098.48,66,12071.02,"most active customer",19676,"Home Office",Central,Illinois,"Glendale Heights",60139
+"Danny Francis Bell",5098.48,66,12071.02,"most active customer",22390,Corporate,Central,Illinois,"Glendale Heights",60139
+"Danny Francis Bell",5098.48,66,12071.02,"most active customer",22391,Corporate,Central,Illinois,"Glendale Heights",60139
+"Danny Francis Bell",5098.48,66,12071.02,"most active customer",22392,Corporate,Central,Illinois,"Glendale Heights",60139
+"Leo Riley",5091.9,45,9424.55,"active customer",26333,"Small Business",Central,Illinois,"Country Club Hills",60478
+"Leo Riley",5091.9,45,9424.55,"active customer",26199,"Small Business",Central,Illinois,"Country Club Hills",60478
+"Leo Riley",5091.9,45,9424.55,"active customer",26198,"Small Business",Central,Illinois,"Country Club Hills",60478
+"Leo Riley",5091.9,45,9424.55,"active customer",26197,"Small Business",Central,Illinois,"Country Club Hills",60478
+"Leo Riley",5091.9,45,9424.55,"active customer",21821,"Small Business",Central,Illinois,"Country Club Hills",60478
+"Katie Dougherty",5027.51,86,14924.99,"most active customer",21609,Corporate,West,Washington,Spanaway,98387
+"Katie Dougherty",5027.51,86,14924.99,"most active customer",21610,Corporate,West,Washington,Spanaway,98387
+"Katie Dougherty",5027.51,86,14924.99,"most active customer",19546,Corporate,West,Washington,Spanaway,98387
+"Katie Dougherty",5027.51,86,14924.99,"most active customer",19547,Corporate,West,Washington,Spanaway,98387
+"Katie Dougherty",5027.51,86,14924.99,"most active customer",19548,Corporate,West,Washington,Spanaway,98387
+"Katie Dougherty",5027.51,86,14924.99,"most active customer",21116,Corporate,West,Washington,Spanaway,98387
+"Katie Dougherty",5027.51,86,14924.99,"most active customer",21611,Corporate,West,Washington,Spanaway,98387
+"Diana Schultz",4986.64,56,12476.15,"most active customer",18271,"Small Business",West,Idaho,Nampa,83686
+"Diana Schultz",4986.64,56,12476.15,"most active customer",18449,"Small Business",West,Idaho,Nampa,83686
+"Diana Schultz",4986.64,56,12476.15,"most active customer",19296,"Small Business",West,Idaho,Nampa,83686
+"Diana Schultz",4986.64,56,12476.15,"most active customer",19431,"Small Business",West,Idaho,Nampa,83686
+"Kathryn Jenkins",4981.47,87,13270.29,"most active customer",21829,Corporate,East,Ohio,Hudson,44236
+"Kathryn Jenkins",4981.47,87,13270.29,"most active customer",18685,"Home Office",East,Ohio,Hudson,44236
+"Kathryn Jenkins",4981.47,87,13270.29,"most active customer",23849,"Home Office",East,Ohio,Hudson,44236
+"Kathryn Jenkins",4981.47,87,13270.29,"most active customer",22982,"Home Office",East,Ohio,Hudson,44236
+"Kathryn Jenkins",4981.47,87,13270.29,"most active customer",22981,"Home Office",East,Ohio,Hudson,44236
+"Kathryn Jenkins",4981.47,87,13270.29,"most active customer",22980,"Home Office",East,Ohio,Hudson,44236
+"Phillip Blum",4948.34,26,8498.71,others,23464,Consumer,West,Oregon,Troutdale,97060
+"Phillip Blum",4948.34,26,8498.71,others,23594,Consumer,West,Oregon,Troutdale,97060
+"Phillip Blum",4948.34,26,8498.71,others,23593,Consumer,West,Oregon,Troutdale,97060
+"Phillip Blum",4948.34,26,8498.71,others,22079,Consumer,West,Oregon,Troutdale,97060
+"Phillip Blum",4948.34,26,8498.71,others,22857,Consumer,West,Oregon,Troutdale,97060
+"Douglas English",4932.91,83,4237.16,"most active customer",23050,Consumer,South,Florida,"Palm Bay",32905
+"Douglas English",4932.91,83,4237.16,"most active customer",23051,Consumer,South,Florida,"Palm Bay",32905
+"Douglas English",4932.91,83,4237.16,"most active customer",24088,Consumer,South,Florida,"Palm Bay",32905
+"Douglas English",4932.91,83,4237.16,"most active customer",23296,Consumer,South,Florida,"Palm Bay",32905
+"Douglas English",4932.91,83,4237.16,"most active customer",25153,Consumer,South,Florida,"Palm Bay",32905
+"Douglas English",4932.91,83,4237.16,"most active customer",22335,Consumer,South,Florida,"Palm Bay",32905
+"Joann Perry",4929.39,15,7144.04,others,22225,Consumer,East,"New Jersey",Lodi,7644
+"Emma Sparks",4910.86,105,13983.92,others,20044,Corporate,West,Oregon,"Oregon City",97045
+"Emma Sparks",4910.86,105,13983.92,others,22122,Corporate,West,Oregon,"Oregon City",97045
+"Emma Sparks",4910.86,105,13983.92,others,22121,Corporate,West,Oregon,"Oregon City",97045
+"Emma Sparks",4910.86,105,13983.92,others,22120,Corporate,West,Oregon,"Oregon City",97045
+"Emma Sparks",4910.86,105,13983.92,others,21449,Corporate,West,Oregon,"Oregon City",97045
+"Emma Sparks",4910.86,105,13983.92,others,19320,Corporate,West,Oregon,"Oregon City",97045
+"Emma Sparks",4910.86,105,13983.92,others,19319,Corporate,West,Oregon,"Oregon City",97045
+"Emma Sparks",4910.86,105,13983.92,others,19318,Corporate,West,Oregon,"Oregon City",97045
+"Mildred Mullen",4898.39,14,7099.12,others,18590,Consumer,East,Maine,Portland,4101
+"Matthew Welsh",4897.92,11,477.72,others,25303,Corporate,South,Georgia,Dalton,30721
+"Matthew Welsh",4897.92,11,477.72,others,25302,Corporate,South,Georgia,Dalton,30721
+"Kara Patton",4858.19,125,12308.3,others,21381,Corporate,Central,Illinois,Carpentersville,60110
+"Kara Patton",4858.19,125,12308.3,others,21380,Corporate,Central,Illinois,Carpentersville,60110
+"Kara Patton",4858.19,125,12308.3,others,19745,"Home Office",Central,Illinois,Carpentersville,60110
+"Kara Patton",4858.19,125,12308.3,others,21434,"Home Office",Central,Illinois,Carpentersville,60110
+"Kara Patton",4858.19,125,12308.3,others,18415,Corporate,Central,Illinois,Carpentersville,60110
+"Kara Patton",4858.19,125,12308.3,others,18414,Corporate,Central,Illinois,Carpentersville,60110
+"Kara Patton",4858.19,125,12308.3,others,18413,Corporate,Central,Illinois,Carpentersville,60110
+"Juan Gilbert",4802.15,74,14896.12,"most active customer",20852,"Small Business",Central,Wisconsin,Oshkosh,54901
+"Juan Gilbert",4802.15,74,14896.12,"most active customer",20853,"Small Business",Central,Wisconsin,Oshkosh,54901
+"Juan Gilbert",4802.15,74,14896.12,"most active customer",20854,"Small Business",Central,Wisconsin,Oshkosh,54901
+"Juan Gilbert",4802.15,74,14896.12,"most active customer",20881,"Small Business",Central,Wisconsin,Oshkosh,54901
+"Juan Gilbert",4802.15,74,14896.12,"most active customer",25552,"Small Business",Central,Wisconsin,Oshkosh,54901
+"Juan Gilbert",4802.15,74,14896.12,"most active customer",24499,"Small Business",Central,Wisconsin,Oshkosh,54901
+"Juan Gilbert",4802.15,74,14896.12,"most active customer",24500,"Small Business",Central,Wisconsin,Oshkosh,54901
+"Mildred Steele",4784.13,33,7329.92,"active customer",23566,"Small Business",West,"New Mexico",Roswell,88201
+"Mildred Steele",4784.13,33,7329.92,"active customer",25187,"Small Business",West,"New Mexico",Roswell,88201
+"Mildred Steele",4784.13,33,7329.92,"active customer",23486,"Small Business",West,"New Mexico",Roswell,88201
+"Mildred Steele",4784.13,33,7329.92,"active customer",23485,"Small Business",West,"New Mexico",Roswell,88201
+"Yvonne Stephens",4778.23,75,7843.2,"most active customer",23927,Consumer,West,California,Davis,95616
+"Yvonne Stephens",4778.23,75,7843.2,"most active customer",25098,Consumer,West,California,Davis,95616
+"Yvonne Stephens",4778.23,75,7843.2,"most active customer",25097,Consumer,West,California,Davis,95616
+"Yvonne Stephens",4778.23,75,7843.2,"most active customer",25096,Consumer,West,California,Davis,95616
+"Yvonne Stephens",4778.23,75,7843.2,"most active customer",25095,Consumer,West,California,Davis,95616
+"Sidney Matthews",4730.18,13,6855.33,"can not lose",26297,"Small Business",East,Massachusetts,Framingham,1701
+"Edna Huang",4725.42,26,13591.76,"can not lose",25176,"Home Office",East,Massachusetts,"South Hadley",1075
+"Edna Huang",4725.42,26,13591.76,"can not lose",25179,Corporate,East,Massachusetts,"South Hadley",1075
+"Bernice Stanley",4721.78,57,6843.16,"most active customer",25548,Corporate,Central,Illinois,Peoria,61604
+"Bernice Stanley",4721.78,57,6843.16,"most active customer",25136,Corporate,Central,Illinois,Peoria,61604
+"Calvin Ferrell",4714.85,6,50.75,others,18912,Corporate,South,Kentucky,Owensboro,42301
+"Vicki Shannon",4687.34,86,4238.96,"most active customer",23808,Corporate,South,Virginia,"Tysons Corner",22102
+"Vicki Shannon",4687.34,86,4238.96,"most active customer",25099,Corporate,South,Virginia,"Tysons Corner",22102
+"Vicki Shannon",4687.34,86,4238.96,"most active customer",25100,Corporate,South,Virginia,"Tysons Corner",22102
+"Vicki Shannon",4687.34,86,4238.96,"most active customer",25101,Corporate,South,Virginia,"Tysons Corner",22102
+"Vicki Shannon",4687.34,86,4238.96,"most active customer",24634,Corporate,South,Virginia,"Tysons Corner",22102
+"Ellen Beck",4633.09,24,7046.38,others,18054,"Small Business",West,Arizona,Scottsdale,85254
+"Ellen Beck",4633.09,24,7046.38,others,18055,"Small Business",West,Arizona,Scottsdale,85254
+"Ellen Beck",4633.09,24,7046.38,others,24452,"Small Business",West,Arizona,Scottsdale,85254
+"Ellen Beck",4633.09,24,7046.38,others,24453,"Small Business",West,Arizona,Scottsdale,85254
+"Ellen Beck",4633.09,24,7046.38,others,23785,"Small Business",West,Arizona,Scottsdale,85254
+"Denise Crabtree",4631.34,20,6712.09,"can not lose",19289,"Home Office",East,Maryland,"Severna Park",21146
+"Denise Crabtree",4631.34,20,6712.09,"can not lose",22108,"Home Office",East,Maryland,"Severna Park",21146
+"Edna Monroe Talley",4599.94,57,7740.89,others,23125,Corporate,Central,Texas,Seguin,78155
+"Edna Monroe Talley",4599.94,57,7740.89,others,23035,Corporate,Central,Texas,Seguin,78155
+"Edna Monroe Talley",4599.94,57,7740.89,others,23210,Corporate,Central,Texas,Seguin,78155
+"Edna Monroe Talley",4599.94,57,7740.89,others,23209,Corporate,Central,Texas,Seguin,78155
+"Edna Monroe Talley",4599.94,57,7740.89,others,24133,Corporate,Central,Texas,Seguin,78155
+"Edna Monroe Talley",4599.94,57,7740.89,others,24132,Corporate,Central,Texas,Seguin,78155
+"Danny Cain",4582.45,66,6947.12,others,21828,"Small Business",Central,Michigan,Jackson,49201
+"Danny Cain",4582.45,66,6947.12,others,21827,"Small Business",Central,Michigan,Jackson,49201
+"Danny Cain",4582.45,66,6947.12,others,25210,"Small Business",Central,Michigan,Jackson,49201
+"Daniel Webb Stephens",4580.07,14,6637.78,others,18440,Consumer,Central,Illinois,Carbondale,62901
+"Jeff Meadows",4568.08,53,3168.36,others,25440,Corporate,South,Kentucky,Paducah,42003
+"Jeff Meadows",4568.08,53,3168.36,others,20639,Corporate,South,Kentucky,Paducah,42003
+"Jeff Meadows",4568.08,53,3168.36,others,20640,Corporate,South,Kentucky,Paducah,42003
+"Jeff Meadows",4568.08,53,3168.36,others,22458,Corporate,South,Kentucky,Paducah,42003
+"Jeff Meadows",4568.08,53,3168.36,others,18913,Corporate,South,Kentucky,Paducah,42003
+"Sharon Marcus",4559.45,70,6692.55,"most active customer",21853,Consumer,West,Washington,Longview,98632
+"Sharon Marcus",4559.45,70,6692.55,"most active customer",19280,Consumer,West,Washington,Longview,98632
+"Sharon Marcus",4559.45,70,6692.55,"most active customer",19406,Consumer,West,Washington,Longview,98632
+"Sharon Marcus",4559.45,70,6692.55,"most active customer",19405,Consumer,West,Washington,Longview,98632
+"Sharon Marcus",4559.45,70,6692.55,"most active customer",21852,Consumer,West,Washington,Longview,98632
+"Sharon Marcus",4559.45,70,6692.55,"most active customer",18728,Consumer,West,Washington,Longview,98632
+"Dana Teague",4556.53,311,61298.98,"most active customer",1293,Corporate,East,"District of Columbia",Washington,20016
+"Dana Teague",4556.53,311,61298.98,"most active customer",7391,Corporate,East,"District of Columbia",Washington,20016
+"Dana Teague",4556.53,311,61298.98,"most active customer",7390,Corporate,East,"District of Columbia",Washington,20016
+"Dana Teague",4556.53,311,61298.98,"most active customer",2,Corporate,East,"District of Columbia",Washington,20016
+"Dana Teague",4556.53,311,61298.98,"most active customer",998,Corporate,East,"District of Columbia",Washington,20016
+"Dana Teague",4556.53,311,61298.98,"most active customer",7110,Corporate,East,"District of Columbia",Washington,20016
+"Dana Teague",4556.53,311,61298.98,"most active customer",7109,Corporate,East,"District of Columbia",Washington,20016
+"Dana Teague",4556.53,311,61298.98,"most active customer",8007,Corporate,East,"District of Columbia",Washington,20016
+"Dana Teague",4556.53,311,61298.98,"most active customer",8006,Corporate,East,"District of Columbia",Washington,20016
+"Dana Teague",4556.53,311,61298.98,"most active customer",1529,Corporate,East,"District of Columbia",Washington,20016
+"Rhonda Bryant",4538.24,76,5338.18,"most active customer",24568,Corporate,South,Florida,"Winter Haven",33881
+"Rhonda Bryant",4538.24,76,5338.18,"most active customer",24569,Corporate,South,Florida,"Winter Haven",33881
+"Rhonda Bryant",4538.24,76,5338.18,"most active customer",23500,Corporate,South,Florida,"Winter Haven",33881
+"Rhonda Bryant",4538.24,76,5338.18,"most active customer",23772,Corporate,South,Florida,"Winter Haven",33881
+"Rhonda Bryant",4538.24,76,5338.18,"most active customer",20141,Corporate,South,Florida,"Winter Haven",33881
+"Rhonda Bryant",4538.24,76,5338.18,"most active customer",24567,Corporate,South,Florida,"Winter Haven",33881
+"Norma Kendall",4460.25,55,9588.89,others,24906,Corporate,Central,Michigan,Owosso,48841
+"Norma Kendall",4460.25,55,9588.89,others,26239,Corporate,Central,Michigan,Owosso,48841
+"Norma Kendall",4460.25,55,9588.89,others,26238,Corporate,Central,Michigan,Owosso,48841
+"Norma Kendall",4460.25,55,9588.89,others,23255,Corporate,Central,Michigan,Owosso,48841
+"Norma Kendall",4460.25,55,9588.89,others,23683,Corporate,Central,Michigan,Owosso,48841
+"Laurence Cummings",4433.07,73,1965.24,"most active customer",23313,"Small Business",South,Florida,"Lehigh Acres",33971
+"Laurence Cummings",4433.07,73,1965.24,"most active customer",23314,"Small Business",South,Florida,"Lehigh Acres",33971
+"Laurence Cummings",4433.07,73,1965.24,"most active customer",21615,"Small Business",South,Florida,"Lehigh Acres",33971
+"Laurence Cummings",4433.07,73,1965.24,"most active customer",22679,"Small Business",South,Florida,"Lehigh Acres",33971
+"Laurence Cummings",4433.07,73,1965.24,"most active customer",22726,"Small Business",South,Florida,"Lehigh Acres",33971
+"Elisabeth Stephenson",4420.85,46,8013.97,others,21201,Corporate,Central,Texas,Houston,77036
+"Elisabeth Stephenson",4420.85,46,8013.97,others,22936,Corporate,Central,Texas,Houston,77036
+"Elisabeth Stephenson",4420.85,46,8013.97,others,22935,Corporate,Central,Texas,Houston,77036
+"Jacob Hirsch",4407.44,15,7029.1,others,18283,"Home Office",East,"Rhode Island",Barrington,2806
+"Natalie Snow",4404.54,87,1033.46,others,26047,"Home Office",South,Alabama,Selma,36701
+"Natalie Snow",4404.54,87,1033.46,others,25373,"Home Office",South,Alabama,Selma,36701
+"Natalie Snow",4404.54,87,1033.46,others,25927,"Home Office",South,Alabama,Selma,36701
+"Natalie Snow",4404.54,87,1033.46,others,26046,"Home Office",South,Alabama,Selma,36701
+"Natalie Snow",4404.54,87,1033.46,others,26045,"Home Office",South,Alabama,Selma,36701
+"Natalie Snow",4404.54,87,1033.46,others,26044,"Home Office",South,Alabama,Selma,36701
+"Chad Henson",4377.1,91,8106.23,others,21059,Corporate,East,"West Virginia",Huntington,25705
+"Chad Henson",4377.1,91,8106.23,others,21060,Corporate,East,"West Virginia",Huntington,25705
+"Chad Henson",4377.1,91,8106.23,others,21061,Corporate,East,"West Virginia",Huntington,25705
+"Chad Henson",4377.1,91,8106.23,others,21818,Corporate,East,"West Virginia",Huntington,25705
+"Chad Henson",4377.1,91,8106.23,others,23575,Corporate,East,"West Virginia",Huntington,25705
+"Chad Henson",4377.1,91,8106.23,others,23576,Corporate,East,"West Virginia",Huntington,25705
+"Glenda Dougherty",4375.79,33,6530.28,"most active customer",22106,Corporate,East,"New York","New Rochelle",10801
+"Glenda Dougherty",4375.79,33,6530.28,"most active customer",24057,Corporate,East,"New York","New Rochelle",10801
+"Stacy Gould",4339.63,45,7389.84,"active customer",22407,"Home Office",Central,Michigan,"Bay City",48708
+"Stacy Gould",4339.63,45,7389.84,"active customer",24683,"Home Office",Central,Michigan,"Bay City",48708
+"Stacy Gould",4339.63,45,7389.84,"active customer",20261,"Home Office",Central,Michigan,"Bay City",48708
+"Louis Parrish",4295.42,855,32893.42,"most active customer",4132,Consumer,East,"District of Columbia",Washington,20016
+"Louis Parrish",4295.42,855,32893.42,"most active customer",829,Consumer,East,"District of Columbia",Washington,20016
+"Louis Parrish",4295.42,855,32893.42,"most active customer",3081,Consumer,East,"District of Columbia",Washington,20016
+"Louis Parrish",4295.42,855,32893.42,"most active customer",6400,"Small Business",East,"District of Columbia",Washington,20016
+"Louis Parrish",4295.42,855,32893.42,"most active customer",2374,"Small Business",East,"District of Columbia",Washington,20016
+"Louis Parrish",4295.42,855,32893.42,"most active customer",532,"Small Business",East,"District of Columbia",Washington,20016
+"Louis Parrish",4295.42,855,32893.42,"most active customer",6416,"Small Business",East,"District of Columbia",Washington,20016
+"Louis Parrish",4295.42,855,32893.42,"most active customer",1358,"Small Business",East,"District of Columbia",Washington,20016
+"Louis Parrish",4295.42,855,32893.42,"most active customer",340,Consumer,East,"District of Columbia",Washington,20016
+"Louis Parrish",4295.42,855,32893.42,"most active customer",1245,Consumer,East,"District of Columbia",Washington,20016
+"Louis Parrish",4295.42,855,32893.42,"most active customer",1244,Consumer,East,"District of Columbia",Washington,20016
+"Louis Parrish",4295.42,855,32893.42,"most active customer",6399,"Small Business",East,"District of Columbia",Washington,20016
+"Louis Parrish",4295.42,855,32893.42,"most active customer",6398,"Small Business",East,"District of Columbia",Washington,20016
+"Louis Parrish",4295.42,855,32893.42,"most active customer",4182,Consumer,East,"District of Columbia",Washington,20016
+"Louis Parrish",4295.42,855,32893.42,"most active customer",7443,Consumer,East,"District of Columbia",Washington,20016
+"Louis Parrish",4295.42,855,32893.42,"most active customer",7442,Consumer,East,"District of Columbia",Washington,20016
+"Louis Parrish",4295.42,855,32893.42,"most active customer",2990,"Small Business",East,"District of Columbia",Washington,20016
+"Louis Parrish",4295.42,855,32893.42,"most active customer",5396,Consumer,East,"District of Columbia",Washington,20016
+"Louis Parrish",4295.42,855,32893.42,"most active customer",8023,"Small Business",East,"District of Columbia",Washington,20016
+"Louis Parrish",4295.42,855,32893.42,"most active customer",8022,"Small Business",East,"District of Columbia",Washington,20016
+"Louis Parrish",4295.42,855,32893.42,"most active customer",1553,"Small Business",East,"District of Columbia",Washington,20016
+"Louis Parrish",4295.42,855,32893.42,"most active customer",1552,"Small Business",East,"District of Columbia",Washington,20016
+"Louis Parrish",4295.42,855,32893.42,"most active customer",5468,"Small Business",East,"District of Columbia",Washington,20016
+"Louis Parrish",4295.42,855,32893.42,"most active customer",4133,Consumer,East,"District of Columbia",Washington,20016
+"Louis Parrish",4295.42,855,32893.42,"most active customer",4131,Consumer,East,"District of Columbia",Washington,20016
+"Louis Parrish",4295.42,855,32893.42,"most active customer",831,Consumer,East,"District of Columbia",Washington,20016
+"Louis Parrish",4295.42,855,32893.42,"most active customer",830,Consumer,East,"District of Columbia",Washington,20016
+"Pauline Denton",4269.79,77,12647.15,"most active customer",24059,"Small Business",Central,Indiana,Vincennes,47591
+"Pauline Denton",4269.79,77,12647.15,"most active customer",20269,"Small Business",Central,Indiana,Vincennes,47591
+"Pauline Denton",4269.79,77,12647.15,"most active customer",20678,"Small Business",Central,Indiana,Vincennes,47591
+"Pauline Denton",4269.79,77,12647.15,"most active customer",21487,"Small Business",Central,Indiana,Vincennes,47591
+"Pauline Denton",4269.79,77,12647.15,"most active customer",22126,"Small Business",Central,Indiana,Vincennes,47591
+"Pauline Denton",4269.79,77,12647.15,"most active customer",22125,"Small Business",Central,Indiana,Vincennes,47591
+"Tracy Buckley",4259.98,43,1652.28,others,20975,"Home Office",South,Arkansas,"North Little Rock",72113
+"Tracy Buckley",4259.98,43,1652.28,others,20974,"Home Office",South,Arkansas,"North Little Rock",72113
+"Tracy Buckley",4259.98,43,1652.28,others,19622,"Home Office",South,Arkansas,"North Little Rock",72113
+"Tracy Buckley",4259.98,43,1652.28,others,19621,"Home Office",South,Arkansas,"North Little Rock",72113
+"Tracy Buckley",4259.98,43,1652.28,others,19620,"Home Office",South,Arkansas,"North Little Rock",72113
+"Tracy Buckley",4259.98,43,1652.28,others,19967,"Home Office",South,Arkansas,"North Little Rock",72113
+"Tracy Buckley",4259.98,43,1652.28,others,21000,"Home Office",South,Arkansas,"North Little Rock",72113
+"Ronnie Proctor",4249.11,30,6476.1,others,19483,"Home Office",West,California,"San Gabriel",91776
+"Ronnie Proctor",4249.11,30,6476.1,others,20228,"Home Office",West,California,"San Gabriel",91776
+"Cecil Berger",4237.27,69,1607.2,"active customer",25799,"Home Office",South,Arkansas,"Bella Vista",72714
+"Cecil Berger",4237.27,69,1607.2,"active customer",25800,"Home Office",South,Arkansas,"Bella Vista",72714
+"Cecil Berger",4237.27,69,1607.2,"active customer",24973,Consumer,South,Arkansas,"Bella Vista",72714
+"Cecil Berger",4237.27,69,1607.2,"active customer",24618,"Home Office",South,Arkansas,"Bella Vista",72714
+"Cecil Berger",4237.27,69,1607.2,"active customer",24884,"Home Office",South,Arkansas,"Bella Vista",72714
+"Cecil Berger",4237.27,69,1607.2,"active customer",25854,"Home Office",South,Arkansas,"Bella Vista",72714
+"Juan Justice",4216.06,81,9436.06,"most active customer",19353,Corporate,Central,Minnesota,"Saint Paul",55106
+"Juan Justice",4216.06,81,9436.06,"most active customer",19368,Corporate,Central,Minnesota,"Saint Paul",55106
+"Juan Justice",4216.06,81,9436.06,"most active customer",19367,Corporate,Central,Minnesota,"Saint Paul",55106
+"Juan Justice",4216.06,81,9436.06,"most active customer",19366,Corporate,Central,Minnesota,"Saint Paul",55106
+"Juan Justice",4216.06,81,9436.06,"most active customer",18919,Corporate,Central,Minnesota,"Saint Paul",55106
+"Juan Justice",4216.06,81,9436.06,"most active customer",19365,Corporate,Central,Minnesota,"Saint Paul",55106
+"Juan Justice",4216.06,81,9436.06,"most active customer",19364,Corporate,Central,Minnesota,"Saint Paul",55106
+"Kristine Connolly",4195.6,616,81296.39,"most active customer",2368,"Home Office",West,California,"Los Angeles",90008
+"Kristine Connolly",4195.6,616,81296.39,"most active customer",349,Corporate,West,California,"Los Angeles",90008
+"Kristine Connolly",4195.6,616,81296.39,"most active customer",1115,Corporate,West,California,"Los Angeles",90008
+"Kristine Connolly",4195.6,616,81296.39,"most active customer",64,Corporate,West,California,"Los Angeles",90008
+"Kristine Connolly",4195.6,616,81296.39,"most active customer",4926,Corporate,West,California,"Los Angeles",90008
+"Kristine Connolly",4195.6,616,81296.39,"most active customer",4927,Corporate,West,California,"Los Angeles",90008
+"Kristine Connolly",4195.6,616,81296.39,"most active customer",4928,Corporate,West,California,"Los Angeles",90008
+"Kristine Connolly",4195.6,616,81296.39,"most active customer",7469,"Home Office",West,California,"Los Angeles",90008
+"Kristine Connolly",4195.6,616,81296.39,"most active customer",7470,"Home Office",West,California,"Los Angeles",90008
+"Kristine Connolly",4195.6,616,81296.39,"most active customer",2142,"Home Office",West,California,"Los Angeles",90008
+"Kristine Connolly",4195.6,616,81296.39,"most active customer",991,Corporate,West,California,"Los Angeles",90008
+"Kristine Connolly",4195.6,616,81296.39,"most active customer",5004,Corporate,West,California,"Los Angeles",90008
+"Kristine Connolly",4195.6,616,81296.39,"most active customer",2369,"Home Office",West,California,"Los Angeles",90008
+"Kristine Connolly",4195.6,616,81296.39,"most active customer",2086,Corporate,West,California,"Los Angeles",90008
+"Kristine Connolly",4195.6,616,81296.39,"most active customer",3810,"Home Office",West,California,"Los Angeles",90008
+"Kristine Connolly",4195.6,616,81296.39,"most active customer",3811,"Home Office",West,California,"Los Angeles",90008
+"Renee Ellington",4160.42,36,3376.23,others,22069,"Home Office",South,Mississippi,Jackson,39212
+"Renee Ellington",4160.42,36,3376.23,others,19729,"Home Office",South,Mississippi,Jackson,39212
+"Renee Ellington",4160.42,36,3376.23,others,19728,"Home Office",South,Mississippi,Jackson,39212
+"Marcia Greenberg",4124.75,105,11757.28,"most active customer",20617,Corporate,West,Arizona,"Bullhead City",86442
+"Marcia Greenberg",4124.75,105,11757.28,"most active customer",21450,"Home Office",West,Arizona,"Bullhead City",86442
+"Marcia Greenberg",4124.75,105,11757.28,"most active customer",20338,"Small Business",West,Arizona,"Bullhead City",86442
+"Marcia Greenberg",4124.75,105,11757.28,"most active customer",20638,"Small Business",West,Arizona,"Bullhead City",86442
+"Marcia Greenberg",4124.75,105,11757.28,"most active customer",21273,"Home Office",West,Arizona,"Bullhead City",86442
+"Marcia Greenberg",4124.75,105,11757.28,"most active customer",20983,Corporate,West,Arizona,"Bullhead City",86442
+"Marcia Greenberg",4124.75,105,11757.28,"most active customer",21580,Corporate,West,Arizona,"Bullhead City",86442
+"Lewis House Stokes",4117.71,32,5967.69,others,18475,"Home Office",Central,Oklahoma,Edmond,73034
+"Lewis House Stokes",4117.71,32,5967.69,others,18474,"Home Office",Central,Oklahoma,Edmond,73034
+"Caroline Johnston",4078.04,560,27192.11,others,7556,Consumer,East,Massachusetts,Boston,2129
+"Caroline Johnston",4078.04,560,27192.11,others,7555,Consumer,East,Massachusetts,Boston,2129
+"Caroline Johnston",4078.04,560,27192.11,others,2320,Consumer,East,Massachusetts,Boston,2129
+"Caroline Johnston",4078.04,560,27192.11,others,1629,Consumer,East,Massachusetts,Boston,2129
+"Caroline Johnston",4078.04,560,27192.11,others,1628,Consumer,East,Massachusetts,Boston,2129
+"Caroline Johnston",4078.04,560,27192.11,others,6779,Consumer,East,Massachusetts,Boston,2129
+"Caroline Johnston",4078.04,560,27192.11,others,6778,Consumer,East,Massachusetts,Boston,2129
+"Caroline Johnston",4078.04,560,27192.11,others,6003,Consumer,East,Massachusetts,Boston,2129
+"Caroline Johnston",4078.04,560,27192.11,others,6002,Consumer,East,Massachusetts,Boston,2129
+"Caroline Johnston",4078.04,560,27192.11,others,6001,Consumer,East,Massachusetts,Boston,2129
+"Caroline Johnston",4078.04,560,27192.11,others,6000,Consumer,East,Massachusetts,Boston,2129
+"Caroline Johnston",4078.04,560,27192.11,others,5999,Consumer,East,Massachusetts,Boston,2129
+"Caroline Johnston",4078.04,560,27192.11,others,495,Consumer,East,Massachusetts,Boston,2129
+"Caroline Johnston",4078.04,560,27192.11,others,494,Consumer,East,Massachusetts,Boston,2129
+"Caroline Johnston",4078.04,560,27192.11,others,6014,Consumer,East,Massachusetts,Boston,2129
+"Leah Clapp",4052.43,43,7443.2,others,23435,Consumer,West,Nevada,"Las Vegas",89115
+"Leah Clapp",4052.43,43,7443.2,others,23434,Consumer,West,Nevada,"Las Vegas",89115
+"Leah Clapp",4052.43,43,7443.2,others,23433,Consumer,West,Nevada,"Las Vegas",89115
+"Leah Clapp",4052.43,43,7443.2,others,24199,Consumer,West,Nevada,"Las Vegas",89115
+"Tracey Gross",4035.47,88,7639.42,"most active customer",24739,Corporate,West,California,Gilroy,95020
+"Tracey Gross",4035.47,88,7639.42,"most active customer",23619,Corporate,West,California,Gilroy,95020
+"Tracey Gross",4035.47,88,7639.42,"most active customer",23618,Corporate,West,California,Gilroy,95020
+"Tracey Gross",4035.47,88,7639.42,"most active customer",25627,Corporate,West,California,Gilroy,95020
+"Tracey Gross",4035.47,88,7639.42,"most active customer",23859,Corporate,West,California,Gilroy,95020
+"Marian Willis",4021.08,68,7836.06,"most active customer",21768,"Home Office",Central,Nebraska,"La Vista",68128
+"Marian Willis",4021.08,68,7836.06,"most active customer",19246,"Home Office",Central,Nebraska,"La Vista",68128
+"Marian Willis",4021.08,68,7836.06,"most active customer",19247,"Home Office",Central,Nebraska,"La Vista",68128
+"Marian Willis",4021.08,68,7836.06,"most active customer",22676,"Home Office",Central,Nebraska,"La Vista",68128
+"Marian Willis",4021.08,68,7836.06,"most active customer",23420,"Small Business",Central,Nebraska,"La Vista",68128
+"Marian Willis",4021.08,68,7836.06,"most active customer",21759,"Small Business",Central,Nebraska,"La Vista",68128
+"Tom Hoyle Honeycutt",4008.74,62,12597.99,"most active customer",21834,"Home Office",Central,Michigan,Warren,48093
+"Tom Hoyle Honeycutt",4008.74,62,12597.99,"most active customer",21835,"Home Office",Central,Michigan,Warren,48093
+"Tom Hoyle Honeycutt",4008.74,62,12597.99,"most active customer",21975,"Home Office",Central,Michigan,Warren,48093
+"Tom Hoyle Honeycutt",4008.74,62,12597.99,"most active customer",21976,"Home Office",Central,Michigan,Warren,48093
+"Tom Hoyle Honeycutt",4008.74,62,12597.99,"most active customer",21977,"Home Office",Central,Michigan,Warren,48093
+"Tom Hoyle Honeycutt",4008.74,62,12597.99,"most active customer",21447,Corporate,Central,Michigan,Warren,48093
+"Douglas Sutton",3995.43,76,6384.45,"most active customer",20664,Corporate,West,Colorado,"Wheat Ridge",80033
+"Douglas Sutton",3995.43,76,6384.45,"most active customer",19537,Corporate,West,Colorado,"Wheat Ridge",80033
+"Douglas Sutton",3995.43,76,6384.45,"most active customer",19538,Corporate,West,Colorado,"Wheat Ridge",80033
+"Douglas Sutton",3995.43,76,6384.45,"most active customer",23032,Corporate,West,Colorado,"Wheat Ridge",80033
+"Douglas Sutton",3995.43,76,6384.45,"most active customer",21645,Corporate,West,Colorado,"Wheat Ridge",80033
+"Douglas Sutton",3995.43,76,6384.45,"most active customer",21316,Corporate,West,Colorado,"Wheat Ridge",80033
+"Debbie Stevenson",3957.9,60,7715.89,"most active customer",18467,"Small Business",West,California,"West Hollywood",90069
+"Debbie Stevenson",3957.9,60,7715.89,"most active customer",21243,"Small Business",West,California,"West Hollywood",90069
+"Debbie Stevenson",3957.9,60,7715.89,"most active customer",18721,"Small Business",West,California,"West Hollywood",90069
+"Debbie Stevenson",3957.9,60,7715.89,"most active customer",19427,"Small Business",West,California,"West Hollywood",90069
+"Debbie Stevenson",3957.9,60,7715.89,"most active customer",22731,"Small Business",West,California,"West Hollywood",90069
+"Debbie Stevenson",3957.9,60,7715.89,"most active customer",18674,"Small Business",West,California,"West Hollywood",90069
+"Jonathan Cheng",3887.46,23,5771.4,others,25754,Corporate,West,Oregon,Portland,97206
+"Jonathan Cheng",3887.46,23,5771.4,others,25842,Corporate,West,Oregon,Portland,97206
+"Jonathan Cheng",3887.46,23,5771.4,others,23986,Corporate,West,Oregon,Portland,97206
+"Jimmy Han",3848.83,282,18559.43,"most active customer",3989,"Home Office",Central,Texas,Houston,77095
+"Jimmy Han",3848.83,282,18559.43,"most active customer",1399,"Home Office",Central,Texas,Houston,77095
+"Jimmy Han",3848.83,282,18559.43,"most active customer",7068,"Home Office",Central,Texas,Houston,77095
+"Jimmy Han",3848.83,282,18559.43,"most active customer",7106,"Home Office",Central,Texas,Houston,77095
+"Jimmy Han",3848.83,282,18559.43,"most active customer",3990,"Home Office",Central,Texas,Houston,77095
+"Jimmy Han",3848.83,282,18559.43,"most active customer",68,"Home Office",Central,Texas,Houston,77095
+"Leah Davenport",3799.38,50,8370.14,"most active customer",26093,"Small Business",West,California,Hesperia,92345
+"Leah Davenport",3799.38,50,8370.14,"most active customer",24684,Corporate,West,California,Hesperia,92345
+"Leah Davenport",3799.38,50,8370.14,"most active customer",25505,"Small Business",West,California,Hesperia,92345
+"Leah Davenport",3799.38,50,8370.14,"most active customer",26094,"Small Business",West,California,Hesperia,92345
+"Hazel Graham",3769.91,26,10117.38,others,25472,Corporate,East,Ohio,Cleveland,44105
+"Hazel Graham",3769.91,26,10117.38,others,25297,Consumer,East,Ohio,Cleveland,44105
+"Hazel Graham",3769.91,26,10117.38,others,26359,Consumer,East,Ohio,Cleveland,44105
+"Cindy Harvey",3706.94,53,6156.17,"most active customer",23120,Consumer,West,Utah,Tooele,84074
+"Cindy Harvey",3706.94,53,6156.17,"most active customer",20652,Consumer,West,Utah,Tooele,84074
+"Cindy Harvey",3706.94,53,6156.17,"most active customer",18210,Consumer,West,Utah,Tooele,84074
+"Cindy Harvey",3706.94,53,6156.17,"most active customer",20878,Corporate,West,Utah,Tooele,84074
+"Cindy Harvey",3706.94,53,6156.17,"most active customer",20277,Consumer,West,Utah,Tooele,84074
+"John Merritt",3692.98,77,5877.45,"most active customer",23580,Corporate,Central,Texas,Keller,76248
+"John Merritt",3692.98,77,5877.45,"most active customer",22150,Corporate,Central,Texas,Keller,76248
+"John Merritt",3692.98,77,5877.45,"most active customer",22149,Corporate,Central,Texas,Keller,76248
+"John Merritt",3692.98,77,5877.45,"most active customer",22148,Corporate,Central,Texas,Keller,76248
+"John Merritt",3692.98,77,5877.45,"most active customer",22147,Corporate,Central,Texas,Keller,76248
+"John Merritt",3692.98,77,5877.45,"most active customer",23729,Corporate,Central,Texas,Keller,76248
+"Marguerite Yu",3683.03,76,7217.03,others,21057,"Home Office",Central,Texas,Weslaco,78596
+"Marguerite Yu",3683.03,76,7217.03,others,18487,"Home Office",Central,Texas,Weslaco,78596
+"Marguerite Yu",3683.03,76,7217.03,others,18681,"Home Office",Central,Texas,Weslaco,78596
+"Marguerite Yu",3683.03,76,7217.03,others,18680,"Home Office",Central,Texas,Weslaco,78596
+"Marguerite Yu",3683.03,76,7217.03,others,22154,"Home Office",Central,Texas,Weslaco,78596
+"Marguerite Yu",3683.03,76,7217.03,others,18645,"Home Office",Central,Texas,Weslaco,78596
+"Marguerite Yu",3683.03,76,7217.03,others,18733,"Home Office",Central,Texas,Weslaco,78596
+"Dana Rankin",3681.93,103,9807.43,"most active customer",25190,Consumer,West,Idaho,"Twin Falls",83301
+"Dana Rankin",3681.93,103,9807.43,"most active customer",25189,Consumer,West,Idaho,"Twin Falls",83301
+"Dana Rankin",3681.93,103,9807.43,"most active customer",23941,Consumer,West,Idaho,"Twin Falls",83301
+"Dana Rankin",3681.93,103,9807.43,"most active customer",23205,Consumer,West,Idaho,"Twin Falls",83301
+"Dana Rankin",3681.93,103,9807.43,"most active customer",24784,Consumer,West,Idaho,"Twin Falls",83301
+"Dana Rankin",3681.93,103,9807.43,"most active customer",20106,Consumer,West,Idaho,"Twin Falls",83301
+"Dana Rankin",3681.93,103,9807.43,"most active customer",21229,Consumer,West,Idaho,"Twin Falls",83301
+"Dana Rankin",3681.93,103,9807.43,"most active customer",18438,Consumer,West,Idaho,"Twin Falls",83301
+"Anna Ellis",3675.81,51,9647.63,"active customer",18194,Corporate,Central,Minnesota,Mankato,56001
+"Anna Ellis",3675.81,51,9647.63,"active customer",18193,Corporate,Central,Minnesota,Mankato,56001
+"Anna Ellis",3675.81,51,9647.63,"active customer",19469,"Home Office",Central,Minnesota,Mankato,56001
+"Anna Ellis",3675.81,51,9647.63,"active customer",19468,"Home Office",Central,Minnesota,Mankato,56001
+"Anna Ellis",3675.81,51,9647.63,"active customer",19196,"Home Office",Central,Minnesota,Mankato,56001
+"Anna Ellis",3675.81,51,9647.63,"active customer",18198,"Home Office",Central,Minnesota,Mankato,56001
+"Anna Ellis",3675.81,51,9647.63,"active customer",19909,"Home Office",Central,Minnesota,Mankato,56001
+"Toni Swanson",3663.7,366,40870.86,"most active customer",1147,Consumer,East,"New York","New York City",10154
+"Toni Swanson",3663.7,366,40870.86,"most active customer",1450,Consumer,East,"New York","New York City",10154
+"Toni Swanson",3663.7,366,40870.86,"most active customer",914,Consumer,East,"New York","New York City",10154
+"Toni Swanson",3663.7,366,40870.86,"most active customer",6046,Consumer,East,"New York","New York City",10154
+"Toni Swanson",3663.7,366,40870.86,"most active customer",7033,Consumer,East,"New York","New York City",10154
+"Toni Swanson",3663.7,366,40870.86,"most active customer",7034,Consumer,East,"New York","New York City",10154
+"Toni Swanson",3663.7,366,40870.86,"most active customer",1146,Consumer,East,"New York","New York City",10154
+"Toni Swanson",3663.7,366,40870.86,"most active customer",757,Consumer,East,"New York","New York City",10154
+"Toni Swanson",3663.7,366,40870.86,"most active customer",758,Consumer,East,"New York","New York City",10154
+"Toni Swanson",3663.7,366,40870.86,"most active customer",6068,Consumer,East,"New York","New York City",10154
+"Toni Swanson",3663.7,366,40870.86,"most active customer",6069,Consumer,East,"New York","New York City",10154
+"Eva Decker",3652.54,71,10595.37,others,23156,Corporate,South,Georgia,"La Grange",30240
+"Eva Decker",3652.54,71,10595.37,others,23155,Corporate,South,Georgia,"La Grange",30240
+"Eva Decker",3652.54,71,10595.37,others,23183,"Home Office",South,Georgia,"La Grange",30240
+"Eva Decker",3652.54,71,10595.37,others,23182,"Home Office",South,Georgia,"La Grange",30240
+"Eva Decker",3652.54,71,10595.37,others,23181,"Home Office",South,Georgia,"La Grange",30240
+"Oscar Kenney",3651.46,55,5592.72,others,23360,"Home Office",Central,Wisconsin,"West Bend",53095
+"Oscar Kenney",3651.46,55,5592.72,others,24802,"Home Office",Central,Wisconsin,"West Bend",53095
+"Oscar Kenney",3651.46,55,5592.72,others,23887,"Home Office",Central,Wisconsin,"West Bend",53095
+"Oscar Kenney",3651.46,55,5592.72,others,24369,"Home Office",Central,Wisconsin,"West Bend",53095
+"Oscar Kenney",3651.46,55,5592.72,others,24370,"Home Office",Central,Wisconsin,"West Bend",53095
+"Jesse Williamson",3632.78,52,5264.9,"active customer",19306,"Home Office",West,Utah,"Spanish Fork",84660
+"Jesse Williamson",3632.78,52,5264.9,"active customer",20588,"Home Office",West,Utah,"Spanish Fork",84660
+"Jesse Williamson",3632.78,52,5264.9,"active customer",20587,"Home Office",West,Utah,"Spanish Fork",84660
+"Jesse Williamson",3632.78,52,5264.9,"active customer",20586,"Home Office",West,Utah,"Spanish Fork",84660
+"Jesse Williamson",3632.78,52,5264.9,"active customer",19484,"Home Office",West,Utah,"Spanish Fork",84660
+"Nina Bowles",3627.27,88,5447.5,others,23601,Corporate,Central,Illinois,Woodstock,60098
+"Nina Bowles",3627.27,88,5447.5,others,23600,Corporate,Central,Illinois,Woodstock,60098
+"Nina Bowles",3627.27,88,5447.5,others,23599,Corporate,Central,Illinois,Woodstock,60098
+"Nina Bowles",3627.27,88,5447.5,others,23598,Corporate,Central,Illinois,Woodstock,60098
+"Nina Bowles",3627.27,88,5447.5,others,21948,Corporate,Central,Illinois,Woodstock,60098
+"Nina Bowles",3627.27,88,5447.5,others,21947,Corporate,Central,Illinois,Woodstock,60098
+"Kate Glover",3624.77,94,5496.34,"most active customer",24964,"Small Business",West,"New Mexico",Alamogordo,88310
+"Kate Glover",3624.77,94,5496.34,"most active customer",25987,"Small Business",West,"New Mexico",Alamogordo,88310
+"Kate Glover",3624.77,94,5496.34,"most active customer",25986,"Small Business",West,"New Mexico",Alamogordo,88310
+"Kate Glover",3624.77,94,5496.34,"most active customer",24965,"Small Business",West,"New Mexico",Alamogordo,88310
+"Kate Glover",3624.77,94,5496.34,"most active customer",24963,"Small Business",West,"New Mexico",Alamogordo,88310
+"Nicholas Wallace",3570.36,72,5730.86,others,25126,"Home Office",Central,Texas,Hurst,76053
+"Nicholas Wallace",3570.36,72,5730.86,others,23531,"Home Office",Central,Texas,Hurst,76053
+"Nicholas Wallace",3570.36,72,5730.86,others,23532,"Home Office",Central,Texas,Hurst,76053
+"Nicholas Wallace",3570.36,72,5730.86,others,20306,"Home Office",Central,Texas,Hurst,76053
+"Nicholas Wallace",3570.36,72,5730.86,others,20388,"Home Office",Central,Texas,Hurst,76053
+"Nicholas Wallace",3570.36,72,5730.86,others,20389,"Home Office",Central,Texas,Hurst,76053
+"Alex Tate",3557.2,6,5155.36,others,24487,Corporate,East,"New Jersey",Livingston,7039
+"Erin Ballard",3547.17,308,21346.26,"most active customer",3926,"Home Office",West,California,"Los Angeles",90004
+"Erin Ballard",3547.17,308,21346.26,"most active customer",3927,"Home Office",West,California,"Los Angeles",90004
+"Erin Ballard",3547.17,308,21346.26,"most active customer",6711,"Home Office",West,California,"Los Angeles",90004
+"Erin Ballard",3547.17,308,21346.26,"most active customer",5013,"Home Office",West,California,"Los Angeles",90004
+"Erin Ballard",3547.17,308,21346.26,"most active customer",4398,"Home Office",West,California,"Los Angeles",90004
+"Erin Ballard",3547.17,308,21346.26,"most active customer",960,"Home Office",West,California,"Los Angeles",90004
+"Judith French",3532.9,97,12083.65,"most active customer",18821,"Home Office",Central,Illinois,Elmhurst,60126
+"Judith French",3532.9,97,12083.65,"most active customer",18822,"Home Office",Central,Illinois,Elmhurst,60126
+"Judith French",3532.9,97,12083.65,"most active customer",19299,"Home Office",Central,Illinois,Elmhurst,60126
+"Judith French",3532.9,97,12083.65,"most active customer",19300,"Home Office",Central,Illinois,Elmhurst,60126
+"Judith French",3532.9,97,12083.65,"most active customer",19301,"Home Office",Central,Illinois,Elmhurst,60126
+"Joy Park",3532.39,39,5404.06,"active customer",24291,Corporate,Central,Illinois,Skokie,60076
+"Joy Park",3532.39,39,5404.06,"active customer",24290,Corporate,Central,Illinois,Skokie,60076
+"Joy Park",3532.39,39,5404.06,"active customer",24292,Corporate,Central,Illinois,Skokie,60076
+"Paul Tate",3531.86,352,29627.7,"most active customer",3788,"Home Office",East,"District of Columbia",Washington,20006
+"Paul Tate",3531.86,352,29627.7,"most active customer",3787,"Home Office",East,"District of Columbia",Washington,20006
+"Paul Tate",3531.86,352,29627.7,"most active customer",2335,"Home Office",East,"District of Columbia",Washington,20006
+"Paul Tate",3531.86,352,29627.7,"most active customer",1288,"Home Office",East,"District of Columbia",Washington,20006
+"Paul Tate",3531.86,352,29627.7,"most active customer",7138,"Home Office",East,"District of Columbia",Washington,20006
+"Paul Tate",3531.86,352,29627.7,"most active customer",4472,"Home Office",East,"District of Columbia",Washington,20006
+"Paul Tate",3531.86,352,29627.7,"most active customer",4471,"Home Office",East,"District of Columbia",Washington,20006
+"Paul Tate",3531.86,352,29627.7,"most active customer",2336,"Home Office",East,"District of Columbia",Washington,20006
+"Paul Tate",3531.86,352,29627.7,"most active customer",2986,"Home Office",East,"District of Columbia",Washington,20006
+"Jessie McDonald",3492.35,9,6347.19,others,18374,Corporate,West,Colorado,Lakewood,80232
+"Jessie McDonald",3492.35,9,6347.19,others,18375,Corporate,West,Colorado,Lakewood,80232
+"Dana Sharpe",3484.35,416,57021.38,"most active customer",6059,"Small Business",East,Pennsylvania,Philadelphia,19134
+"Dana Sharpe",3484.35,416,57021.38,"most active customer",834,"Small Business",East,Pennsylvania,Philadelphia,19134
+"Dana Sharpe",3484.35,416,57021.38,"most active customer",833,"Small Business",East,Pennsylvania,Philadelphia,19134
+"Dana Sharpe",3484.35,416,57021.38,"most active customer",832,"Small Business",East,Pennsylvania,Philadelphia,19134
+"Dana Sharpe",3484.35,416,57021.38,"most active customer",2269,"Small Business",East,Pennsylvania,Philadelphia,19134
+"Dana Sharpe",3484.35,416,57021.38,"most active customer",2678,"Small Business",East,Pennsylvania,Philadelphia,19134
+"Dana Sharpe",3484.35,416,57021.38,"most active customer",3487,"Small Business",East,Pennsylvania,Philadelphia,19134
+"Dana Sharpe",3484.35,416,57021.38,"most active customer",4126,"Small Business",East,Pennsylvania,Philadelphia,19134
+"Dana Sharpe",3484.35,416,57021.38,"most active customer",4125,"Small Business",East,Pennsylvania,Philadelphia,19134
+"Tamara Dickinson",3480.65,53,5989.03,"most active customer",18903,"Home Office",West,Washington,"Mount Vernon",98273
+"Tamara Dickinson",3480.65,53,5989.03,"most active customer",18902,"Home Office",West,Washington,"Mount Vernon",98273
+"Tamara Dickinson",3480.65,53,5989.03,"most active customer",18692,"Small Business",West,Washington,"Mount Vernon",98273
+"Tamara Dickinson",3480.65,53,5989.03,"most active customer",19036,"Home Office",West,Washington,"Mount Vernon",98273
+"Tamara Dickinson",3480.65,53,5989.03,"most active customer",19035,"Home Office",West,Washington,"Mount Vernon",98273
+"Tamara Dickinson",3480.65,53,5989.03,"most active customer",19233,"Small Business",West,Washington,"Mount Vernon",98273
+"Tamara Dickinson",3480.65,53,5989.03,"most active customer",19232,"Small Business",West,Washington,"Mount Vernon",98273
+"Tamara Dickinson",3480.65,53,5989.03,"most active customer",19047,"Home Office",West,Washington,"Mount Vernon",98273
+"Lawrence Dennis",3478.29,106,10597.04,"most active customer",21283,"Home Office",West,California,"San Clemente",92672
+"Lawrence Dennis",3478.29,106,10597.04,"most active customer",19758,"Home Office",West,California,"San Clemente",92672
+"Lawrence Dennis",3478.29,106,10597.04,"most active customer",19759,"Home Office",West,California,"San Clemente",92672
+"Lawrence Dennis",3478.29,106,10597.04,"most active customer",23488,"Home Office",West,California,"San Clemente",92672
+"Lawrence Dennis",3478.29,106,10597.04,"most active customer",23489,"Home Office",West,California,"San Clemente",92672
+"Lawrence Dennis",3478.29,106,10597.04,"most active customer",21647,"Home Office",West,California,"San Clemente",92672
+"Geoffrey Saunders",3478.16,424,26406.82,"most active customer",1898,"Small Business",East,"New York","New York City",10024
+"Geoffrey Saunders",3478.16,424,26406.82,"most active customer",151,"Small Business",East,"New York","New York City",10024
+"Geoffrey Saunders",3478.16,424,26406.82,"most active customer",152,"Small Business",East,"New York","New York City",10024
+"Geoffrey Saunders",3478.16,424,26406.82,"most active customer",1497,"Small Business",East,"New York","New York City",10024
+"Geoffrey Saunders",3478.16,424,26406.82,"most active customer",4680,"Small Business",East,"New York","New York City",10024
+"Geoffrey Saunders",3478.16,424,26406.82,"most active customer",8027,"Small Business",East,"New York","New York City",10024
+"Geoffrey Saunders",3478.16,424,26406.82,"most active customer",8028,"Small Business",East,"New York","New York City",10024
+"Geoffrey Saunders",3478.16,424,26406.82,"most active customer",1512,"Small Business",East,"New York","New York City",10024
+"Geoffrey Saunders",3478.16,424,26406.82,"most active customer",548,"Small Business",East,"New York","New York City",10024
+"Geoffrey Saunders",3478.16,424,26406.82,"most active customer",622,"Small Business",East,"New York","New York City",10024
+"Linda Blake",3458.08,20,5057.09,others,18891,"Small Business",East,Ohio,Hilliard,43026
+"Linda Blake",3458.08,20,5057.09,others,18244,Corporate,East,Ohio,Hilliard,43026
+"Albert Frost",3433.93,152,9787.62,others,25059,"Small Business",Central,Missouri,Raytown,64133
+"Albert Frost",3433.93,152,9787.62,others,26065,"Small Business",Central,Missouri,Raytown,64133
+"Albert Frost",3433.93,152,9787.62,others,22766,"Small Business",Central,Missouri,Raytown,64133
+"Albert Frost",3433.93,152,9787.62,others,22767,"Small Business",Central,Missouri,Raytown,64133
+"Albert Frost",3433.93,152,9787.62,others,22768,"Small Business",Central,Missouri,Raytown,64133
+"Albert Frost",3433.93,152,9787.62,others,22769,"Small Business",Central,Missouri,Raytown,64133
+"Albert Frost",3433.93,152,9787.62,others,22505,"Small Business",Central,Missouri,Raytown,64133
+"Lindsay O'Connell",3432.09,45,5368.34,others,22145,Corporate,Central,Texas,Greenville,75401
+"Lindsay O'Connell",3432.09,45,5368.34,others,22146,Corporate,Central,Texas,Greenville,75401
+"Lindsay O'Connell",3432.09,45,5368.34,others,20654,Corporate,Central,Texas,Greenville,75401
+"Jose Chan",3417.67,29,4953.14,"most active customer",18695,Corporate,Central,Michigan,Jackson,49201
+"Jose Chan",3417.67,29,4953.14,"most active customer",18718,Corporate,Central,Michigan,Jackson,49201
+"Roger Hopkins",3406.52,117,3807.26,"most active customer",21443,Corporate,South,Arkansas,Conway,72032
+"Roger Hopkins",3406.52,117,3807.26,"most active customer",22280,Corporate,South,Arkansas,Conway,72032
+"Roger Hopkins",3406.52,117,3807.26,"most active customer",22281,Corporate,South,Arkansas,Conway,72032
+"Roger Hopkins",3406.52,117,3807.26,"most active customer",23232,Corporate,South,Arkansas,Conway,72032
+"Roger Hopkins",3406.52,117,3807.26,"most active customer",23233,Corporate,South,Arkansas,Conway,72032
+"Roger Hopkins",3406.52,117,3807.26,"most active customer",23234,Corporate,South,Arkansas,Conway,72032
+"Roger Hopkins",3406.52,117,3807.26,"most active customer",22444,Corporate,South,Arkansas,Conway,72032
+"Betsy Puckett",3337.09,73,7189.7,"most active customer",20741,Corporate,Central,Oklahoma,Norman,73071
+"Betsy Puckett",3337.09,73,7189.7,"most active customer",22500,Corporate,Central,Oklahoma,Norman,73071
+"Betsy Puckett",3337.09,73,7189.7,"most active customer",22499,Corporate,Central,Oklahoma,Norman,73071
+"Betsy Puckett",3337.09,73,7189.7,"most active customer",22013,Corporate,Central,Oklahoma,Norman,73071
+"Betsy Puckett",3337.09,73,7189.7,"most active customer",22012,Corporate,Central,Oklahoma,Norman,73071
+"Betsy Puckett",3337.09,73,7189.7,"most active customer",22540,"Small Business",Central,Oklahoma,Norman,73071
+"Betsy Puckett",3337.09,73,7189.7,"most active customer",21983,"Small Business",Central,Oklahoma,Norman,73071
+"Betsy Puckett",3337.09,73,7189.7,"most active customer",21982,"Small Business",Central,Oklahoma,Norman,73071
+"Betsy Puckett",3337.09,73,7189.7,"most active customer",21981,"Small Business",Central,Oklahoma,Norman,73071
+"Leonard Daly",3332.42,16,5597.12,"can not lose",23661,Consumer,West,Utah,"Salt Lake City",84106
+"Leonard Daly",3332.42,16,5597.12,"can not lose",23660,Consumer,West,Utah,"Salt Lake City",84106
+"Leonard Daly",3332.42,16,5597.12,"can not lose",23388,Consumer,West,Utah,"Salt Lake City",84106
+"Pamela Wiley",3331.43,738,27349.55,"most active customer",1890,Corporate,East,Massachusetts,Boston,2113
+"Pamela Wiley",3331.43,738,27349.55,"most active customer",1889,Corporate,East,Massachusetts,Boston,2113
+"Pamela Wiley",3331.43,738,27349.55,"most active customer",5595,Corporate,East,Massachusetts,Boston,2113
+"Pamela Wiley",3331.43,738,27349.55,"most active customer",6407,Corporate,East,Massachusetts,Boston,2113
+"Pamela Wiley",3331.43,738,27349.55,"most active customer",227,Corporate,East,Massachusetts,Boston,2113
+"Pamela Wiley",3331.43,738,27349.55,"most active customer",1808,Corporate,East,Massachusetts,Boston,2113
+"Pamela Wiley",3331.43,738,27349.55,"most active customer",2627,Corporate,East,Massachusetts,Boston,2113
+"Pamela Wiley",3331.43,738,27349.55,"most active customer",2626,Corporate,East,Massachusetts,Boston,2113
+"Pamela Wiley",3331.43,738,27349.55,"most active customer",6182,Corporate,East,Massachusetts,Boston,2113
+"Pamela Wiley",3331.43,738,27349.55,"most active customer",6181,Corporate,East,Massachusetts,Boston,2113
+"Pamela Wiley",3331.43,738,27349.55,"most active customer",2564,Corporate,East,Massachusetts,Boston,2113
+"Pamela Wiley",3331.43,738,27349.55,"most active customer",2563,Corporate,East,Massachusetts,Boston,2113
+"Pamela Wiley",3331.43,738,27349.55,"most active customer",799,Corporate,East,Massachusetts,Boston,2113
+"Pamela Wiley",3331.43,738,27349.55,"most active customer",1390,Corporate,East,Massachusetts,Boston,2113
+"Pamela Wiley",3331.43,738,27349.55,"most active customer",5231,Corporate,East,Massachusetts,Boston,2113
+"Pamela Wiley",3331.43,738,27349.55,"most active customer",6406,Corporate,East,Massachusetts,Boston,2113
+"Pamela Wiley",3331.43,738,27349.55,"most active customer",1417,Corporate,East,Massachusetts,Boston,2113
+"Jimmy Alston Holder",3326.99,55,9435.98,"most active customer",19146,Consumer,West,Washington,Seattle,98115
+"Jimmy Alston Holder",3326.99,55,9435.98,"most active customer",19147,Consumer,West,Washington,Seattle,98115
+"Jimmy Alston Holder",3326.99,55,9435.98,"most active customer",19450,Consumer,West,Washington,Seattle,98115
+"Jimmy Alston Holder",3326.99,55,9435.98,"most active customer",18914,Consumer,West,Washington,Seattle,98115
+"Jimmy Alston Holder",3326.99,55,9435.98,"most active customer",24046,Consumer,West,Washington,Seattle,98115
+"Jimmy Alston Holder",3326.99,55,9435.98,"most active customer",24069,Consumer,West,Washington,Seattle,98115
+"Randall Bridges",3321.51,18,4813.78,others,18543,Corporate,East,Massachusetts,Quincy,2169
+"Matthew Berman",3317.77,65,7376.86,"most active customer",23509,Corporate,West,Oregon,"Grants Pass",97526
+"Matthew Berman",3317.77,65,7376.86,"most active customer",23612,Corporate,West,Oregon,"Grants Pass",97526
