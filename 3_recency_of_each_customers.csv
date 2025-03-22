@@ -1,0 +1,1001 @@
+CustomerName,Last_OrderDate,Recency
+"Allison Peacock",2013-12-31,0
+"Seth Davies",2013-12-31,0
+"Glenn Morgan",2013-12-30,1
+"Sidney Gilliam",2013-12-30,1
+"Hilda Fletcher",2013-12-30,1
+"Rodney Proctor",2013-12-30,1
+"Sidney Scarborough",2013-12-30,1
+"Holly Chu",2013-12-29,2
+"Leroy Blanchard",2013-12-29,2
+"Marie Pittman",2013-12-29,2
+"Jay Hubbard",2013-12-29,2
+"Patsy Langley",2013-12-29,2
+"Lawrence Norris",2013-12-29,2
+"Glenda Dougherty",2013-12-29,2
+"Gerald Raynor",2013-12-29,2
+"Brett Hawkins",2013-12-28,3
+"Randy Lucas",2013-12-28,3
+"Debbie Stevenson",2013-12-28,3
+"Clyde Norman",2013-12-28,3
+"Leigh Burnette Hurley",2013-12-28,3
+"Brian Bennett",2013-12-28,3
+"Randall Montgomery",2013-12-27,4
+"George Terry",2013-12-27,4
+"Maria Russell",2013-12-27,4
+"Gerald Crabtree",2013-12-27,4
+"Keith Pittman",2013-12-27,4
+"Tony Chandler",2013-12-27,4
+"Ron Newton",2013-12-26,5
+"Linda Weiss",2013-12-26,5
+"Peter Brooks",2013-12-26,5
+"Rick Houston",2013-12-26,5
+"Joanne Church",2013-12-25,6
+"Joanne Davenport",2013-12-25,6
+"Jesse Fisher",2013-12-25,6
+"Lindsay York",2013-12-25,6
+"Gail Rankin Cole",2013-12-25,6
+"Jennifer Siegel",2013-12-25,6
+"Gregory Crane",2013-12-25,6
+"Clara Bullock",2013-12-25,6
+"Wesley Tate",2013-12-25,6
+"Julie Pruitt",2013-12-24,7
+"Maurice Kelly",2013-12-24,7
+"Emma Copeland",2013-12-24,7
+"Glenn Jain",2013-12-24,7
+"Nicole Harris",2013-12-24,7
+"Wesley Waller",2013-12-23,8
+"Dan Carver",2013-12-23,8
+"Marc S Liu",2013-12-23,8
+"Melanie Barker Hirsch",2013-12-22,9
+"Holly Pate",2013-12-22,9
+"Wallace Warner",2013-12-22,9
+"Vicki O'Donnell",2013-12-21,10
+"Diana Schultz",2013-12-21,10
+"Claudia Snyder",2013-12-21,10
+"Kent Hoover",2013-12-21,10
+"Mike Haas",2013-12-21,10
+"Eva Wagner",2013-12-21,10
+"Lindsay Hoffman",2013-12-21,10
+"Herman Leach",2013-12-21,10
+"Nancy Schwartz Peacock",2013-12-21,10
+"Annette McIntyre",2013-12-20,11
+"Ian Chu",2013-12-20,11
+"Barbara Whitfield",2013-12-20,11
+"Wallace D McNeill",2013-12-20,11
+"Seth Rosenberg",2013-12-19,12
+"Roberta Mitchell",2013-12-19,12
+"Emma Hayes",2013-12-19,12
+"Ted Crowder",2013-12-19,12
+"Susan Barr",2013-12-19,12
+"Maxine Joyner",2013-12-18,13
+"Herbert Holden",2013-12-18,13
+"Neil Hahn",2013-12-18,13
+"Lillian Davis",2013-12-18,13
+"Helen Simpson",2013-12-18,13
+"Ernest Peele",2013-12-17,14
+"Larry Brock",2013-12-17,14
+"Carlos Johnson",2013-12-17,14
+"Roger Howell",2013-12-16,15
+"Jackie McCullough",2013-12-16,15
+"Evelyn Bowden",2013-12-16,15
+"Elsie Pridgen",2013-12-16,15
+"Penny Rose",2013-12-16,15
+"Larry Langston",2013-12-15,16
+"Sheryl Reese",2013-12-15,16
+"Erin Brandt Spivey",2013-12-15,16
+"Bob Jiang",2013-12-15,16
+"Jimmy Han",2013-12-15,16
+"Christy Watkins",2013-12-15,16
+"Gregory Beasley",2013-12-14,17
+"Marlene Kirk",2013-12-14,17
+"Lorraine Boykin",2013-12-13,18
+"Jenny Gold",2013-12-13,18
+"Christine Gardner",2013-12-13,18
+"Patrick Adcock",2013-12-13,18
+"Erik Schwarz",2013-12-13,18
+"Pam Gilbert",2013-12-12,19
+"Harold Briggs",2013-12-12,19
+"Norman Ward",2013-12-12,19
+"Thomas Spence",2013-12-12,19
+"Judy Barrett",2013-12-12,19
+"Pauline Reed",2013-12-12,19
+"Faye Joseph",2013-12-12,19
+"Yvonne Mann",2013-12-12,19
+"Erin Y Stewart",2013-12-12,19
+"Pam Riley",2013-12-12,19
+"Gayle Peterson",2013-12-12,19
+"Marguerite Kane",2013-12-11,20
+"Joan Walters",2013-12-11,20
+"Gretchen Ball",2013-12-11,20
+"Max Kirby",2013-12-11,20
+"Chris Williams",2013-12-11,20
+"James Dickinson Ball",2013-12-11,20
+"Edna Pierce",2013-12-11,20
+"Annie Horne",2013-12-10,21
+"Alexander O'Brien",2013-12-10,21
+"Emma Bowles",2013-12-10,21
+"Kate McKenna",2013-12-10,21
+"Gregory Strickland",2013-12-10,21
+"Arthur Glass",2013-12-10,21
+"Robyn Connor",2013-12-10,21
+"Julie Edwards",2013-12-10,21
+"Glenda Holder",2013-12-10,21
+"Vanessa Bowers",2013-12-09,22
+"Lois Bloom",2013-12-09,22
+"Eddie House Mueller",2013-12-09,22
+"Max McKenna",2013-12-09,22
+"Tammy Goldman",2013-12-09,22
+"Juan Gilbert",2013-12-09,22
+"Edwin Winters",2013-12-09,22
+"Jay Parker",2013-12-09,22
+"Cheryl Lester Coley",2013-12-09,22
+"James Craft",2013-12-09,22
+"Maurice Everett",2013-12-08,23
+"Rita Wagner",2013-12-08,23
+"Becky Page Cline",2013-12-08,23
+"Tonya Proctor",2013-12-07,24
+"Ruth Stout",2013-12-07,24
+"Edna Welch",2013-12-07,24
+"Debra Simon",2013-12-07,24
+"Harvey Wong Bates",2013-12-06,25
+"Dennis Welch",2013-12-06,25
+"Russell Chan",2013-12-06,25
+"Daniel Richmond",2013-12-06,25
+"Wanda Link Fuller",2013-12-06,25
+"Jordan Beard",2013-12-06,25
+"Vanessa Day",2013-12-06,25
+"Alfred Barber",2013-12-06,25
+"Paige Sherman",2013-12-06,25
+"Troy Cassidy",2013-12-06,25
+"Marie Bass",2013-12-06,25
+"Julia Reynolds",2013-12-05,26
+"Eleanor Swain",2013-12-05,26
+"Carole Miller",2013-12-05,26
+"Marianne Kane",2013-12-05,26
+"Calvin J Marcus",2013-12-05,26
+"Joy Petty",2013-12-04,27
+"Dwight Robinson",2013-12-04,27
+"Dennis Boykin Townsend",2013-12-04,27
+"Peter McConnell",2013-12-04,27
+"Natalie Aldridge",2013-12-04,27
+"Neil Bailey",2013-12-04,27
+"Lester Stuart",2013-12-03,28
+"Molly Browning",2013-12-03,28
+"Priscilla Kane",2013-12-03,28
+"Jean Bryan",2013-12-03,28
+"Cecil Alford",2013-12-03,28
+"Elaine McMahon Talley",2013-12-03,28
+"Thomas Evans",2013-12-03,28
+"Joann Davidson Rich",2013-12-02,29
+"Steven McDowell",2013-12-02,29
+"Linda Peacock",2013-12-02,29
+"Juanita Ballard",2013-12-02,29
+"Warren Carver",2013-12-02,29
+"Marianne Cochran",2013-12-02,29
+"Elsie Dodson",2013-12-02,29
+"Pamela Wiley",2013-12-02,29
+"Charles Ward",2013-12-02,29
+"Lucy Arthur",2013-12-01,30
+"Patrick Hendrix",2013-12-01,30
+"Ron Dillon",2013-11-30,31
+"Natalie Raynor",2013-11-30,31
+"Brent Coates",2013-11-30,31
+"Joanna Kenney",2013-11-30,31
+"Gene Gilliam",2013-11-30,31
+"Willie Robinson",2013-11-30,31
+"Kara Allison",2013-11-29,32
+"Miriam Bowman",2013-11-29,32
+"Jerry Creech",2013-11-29,32
+"Herman Decker",2013-11-29,32
+"Melanie Burgess",2013-11-28,33
+"Tommy Feldman",2013-11-28,33
+"Clarence Crowder",2013-11-28,33
+"Ann Steele",2013-11-28,33
+"Allan Dickinson",2013-11-28,33
+"Larry Hall",2013-11-28,33
+"Brad Pearce",2013-11-27,34
+"Alexandra Fuller",2013-11-26,35
+"Lee Xu",2013-11-26,35
+"Leslie Woodard",2013-11-26,35
+"Sandra Faulkner",2013-11-26,35
+"Sara Perkins",2013-11-26,35
+"Stacey Bowers",2013-11-26,35
+"Eva Simpson",2013-11-25,36
+"Maureen Whitley",2013-11-25,36
+"Thelma Abrams",2013-11-25,36
+"Lawrence Dennis",2013-11-25,36
+"Laurence Cummings",2013-11-24,37
+"Elsie Boykin",2013-11-24,37
+"Lauren West",2013-11-24,37
+"Lynne Wilcox",2013-11-24,37
+"Gene Wu Vaughan",2013-11-24,37
+"Danny Francis Bell",2013-11-23,38
+"Bruce Stark",2013-11-23,38
+"Alexandra Wise",2013-11-23,38
+"Lucille Gibbons",2013-11-23,38
+"Neil Waller",2013-11-23,38
+"Vincent Swanson",2013-11-23,38
+"Victoria Baker Hoover",2013-11-22,39
+"Kim McCarthy",2013-11-22,39
+"Theodore Goldstein",2013-11-22,39
+"Gail Ellis",2013-11-22,39
+"Erin Erickson",2013-11-21,40
+"Ashley Neal",2013-11-21,40
+"Keith Fowler",2013-11-21,40
+"Marjorie Pope",2013-11-21,40
+"Virginia Gill",2013-11-20,41
+"Marian Alexander",2013-11-20,41
+"Tom Cox",2013-11-20,41
+"Lillian Day",2013-11-20,41
+"Jacob Archer",2013-11-20,41
+"Franklin Spencer",2013-11-20,41
+"Todd Werner",2013-11-19,42
+"Harriet Moore",2013-11-19,42
+"George Yates",2013-11-19,42
+"Kerry Green",2013-11-19,42
+"Patsy Harmon",2013-11-19,42
+"Timothy Ross",2013-11-19,42
+"Janet Bryant",2013-11-19,42
+"Lynn Moss",2013-11-18,43
+"Dana Sharpe",2013-11-18,43
+"Pauline Denton",2013-11-18,43
+"Miriam Snow",2013-11-18,43
+"Danielle P Rao",2013-11-18,43
+"Beverly Cameron",2013-11-18,43
+"Edward Pugh",2013-11-17,44
+"Katherine Kearney",2013-11-17,44
+"Todd D Norris",2013-11-17,44
+"Dale Gillespie",2013-11-16,45
+"Jonathan Cheng",2013-11-16,45
+"Andrew Levine",2013-11-16,45
+"Lynne Reid",2013-11-16,45
+"Sandra Berry",2013-11-16,45
+"Ernest Barber",2013-11-15,46
+"Kim Byrd",2013-11-15,46
+"Billie Glass",2013-11-15,46
+"Jeremy Orr",2013-11-15,46
+"Karen O'Donnell",2013-11-14,47
+"Alex Harding",2013-11-14,47
+"Pam Bennett",2013-11-14,47
+"Sharon Marcus",2013-11-13,48
+"Kimberly Reilly",2013-11-13,48
+"Anna Wood",2013-11-12,49
+"Grace Vaughn",2013-11-12,49
+"Vanessa Casey Jones",2013-11-12,49
+"Charlotte Stanton",2013-11-11,50
+"Marvin Reid",2013-11-11,50
+"Erica Pittman",2013-11-11,50
+"Jose Chan",2013-11-10,51
+"Joanne Chu",2013-11-10,51
+"Marshall Sutherland",2013-11-10,51
+"Anne Kelley",2013-11-10,51
+"Harry McKee",2013-11-10,51
+"Sam Raynor",2013-11-10,51
+"Louise Powell Dillon",2013-11-10,51
+"Ray Oakley",2013-11-10,51
+"Cecil Bray Bush",2013-11-09,52
+"Esther Whitaker",2013-11-09,52
+"Cindy Hinton",2013-11-09,52
+"Marie Daniel",2013-11-09,52
+"Jeanette Boswell",2013-11-09,52
+"Victor Godfrey",2013-11-09,52
+"Irene Conway",2013-11-08,53
+"Sean Herbert",2013-11-08,53
+"Julian Skinner",2013-11-08,53
+"Emma Mitchell",2013-11-08,53
+"Frances McCall",2013-11-08,53
+"Kate Glover",2013-11-08,53
+"Gordon Brandt",2013-11-07,54
+"Roger Hopkins",2013-11-07,54
+"Geoffrey Ayers",2013-11-07,54
+"Evan Kelley",2013-11-07,54
+"Julian F Wolfe",2013-11-06,55
+"Laura Mayo Cox",2013-11-06,55
+"Jonathan Hong",2013-11-06,55
+"Paige Powers",2013-11-06,55
+"Rhonda Stein",2013-11-06,55
+"James Davenport",2013-11-05,56
+"Harry Burns",2013-11-05,56
+"Louise Webster Sharma",2013-11-05,56
+"Leon Peele",2013-11-05,56
+"Kimberly McCarthy",2013-11-05,56
+"Stuart Bruce",2013-11-04,57
+"Peggy Chan",2013-11-04,57
+"Carmen Elmore",2013-11-03,58
+"Alex Watkins",2013-11-03,58
+"Ernest Oh",2013-11-03,58
+"Jane Shah",2013-11-03,58
+"Guy Gallagher",2013-11-02,59
+"Lloyd Bland",2013-11-02,59
+"Jessica Garcia",2013-11-01,60
+"Dan Barton",2013-11-01,60
+"Glenn Jones",2013-11-01,60
+"Bernice Stanley",2013-11-01,60
+"Gordon Sutherland",2013-11-01,60
+"Florence Walters",2013-11-01,60
+"Lynda Martinez",2013-10-31,61
+"Ruby Tate",2013-10-31,61
+"Malcolm Robertson",2013-10-31,61
+"Miriam Francis",2013-10-31,61
+"Frances Jackson",2013-10-31,61
+"Larry Spencer",2013-10-30,62
+"Sam Graham Christian",2013-10-30,62
+"Billy Perry Browning",2013-10-30,62
+"Glenda Rosen",2013-10-30,62
+"Stanley Flowers",2013-10-30,62
+"Edward Leonard",2013-10-30,62
+"Jeff Lassiter",2013-10-30,62
+"Charlie Moore",2013-10-30,62
+"Ryan Rosen",2013-10-30,62
+"Don Beard",2013-10-30,62
+"Mildred Chase",2013-10-30,62
+"Roy Love",2013-10-29,63
+"Glen Caldwell",2013-10-29,63
+"Joel Huffman",2013-10-29,63
+"Laurie Moon",2013-10-29,63
+"Mary Page",2013-10-29,63
+"Sam Woodward",2013-10-29,63
+"Tommy Ellis Ritchie",2013-10-29,63
+"Maxine Myers",2013-10-29,63
+"April Winters",2013-10-28,64
+"Donna Ross",2013-10-28,64
+"Jacqueline Noble",2013-10-28,64
+"Alexandra Lambert",2013-10-28,64
+"Sean McKenna",2013-10-28,64
+"Julia Gallagher",2013-10-28,64
+"Juan Justice",2013-10-28,64
+"Erica Riddle",2013-10-28,64
+"Gene Cox",2013-10-28,64
+"Mike Wilder",2013-10-28,64
+"Martin Weeks",2013-10-27,65
+"Caroline Duffy",2013-10-27,65
+"Marcia Greenberg",2013-10-27,65
+"Stuart Holloway",2013-10-27,65
+"Claire Barton",2013-10-27,65
+"Betty Buckley",2013-10-27,65
+"Martin Kirk",2013-10-26,66
+"James Levine",2013-10-26,66
+"Benjamin Bates",2013-10-26,66
+"Elizabeth Herman",2013-10-26,66
+"Katherine W Epstein",2013-10-26,66
+"Eleanor Barbour",2013-10-26,66
+"Kara Foster",2013-10-25,67
+"Betsy Hendricks",2013-10-25,67
+"Dana Rankin",2013-10-25,67
+"Rosemary O'Brien",2013-10-25,67
+"Kerry Jernigan",2013-10-25,67
+"Miriam Drake",2013-10-25,67
+"Diane Barr",2013-10-24,68
+"Ian Gillespie",2013-10-24,68
+"Bernard Herman",2013-10-24,68
+"Joan Bowers",2013-10-24,68
+"Wayne Bass",2013-10-24,68
+"Edward McKenzie",2013-10-24,68
+"Gary Koch",2013-10-24,68
+"Yvonne Fox",2013-10-23,69
+"Chris F Brandt",2013-10-23,69
+"Marian Bryant",2013-10-23,69
+"Maureen McCoy",2013-10-23,69
+"Carrie Boyle",2013-10-23,69
+"Judith Stanton",2013-10-22,70
+"Annie Booth",2013-10-22,70
+"Maureen Bradley",2013-10-22,70
+"Stuart Wiley",2013-10-21,71
+"Francis Kendall",2013-10-21,71
+"Charlene Day",2013-10-21,71
+"Tammy Raynor",2013-10-20,72
+"Sharon Hopkins",2013-10-20,72
+"Marilyn Bishop",2013-10-20,72
+"Lynn Payne",2013-10-20,72
+"Betsy Puckett",2013-10-19,73
+"Terri McCarthy Manning",2013-10-19,73
+"Claudia Webb",2013-10-19,73
+"Kerry Wilkerson",2013-10-19,73
+"Maxine Collier Grady",2013-10-19,73
+"Gary Hester",2013-10-18,74
+"Irene Murphy",2013-10-18,74
+"Kim Reese",2013-10-18,74
+"Marie Fitzgerald",2013-10-18,74
+"Patrick Rhodes",2013-10-18,74
+"Ricky Johnston",2013-10-18,74
+"Allison Cooke",2013-10-18,74
+"Matthew Conway",2013-10-18,74
+"Nelson House",2013-10-18,74
+"Tara Powers Underwood",2013-10-18,74
+"Milton Padgett",2013-10-18,74
+"Sean Burton",2013-10-18,74
+"Glen Horowitz",2013-10-17,75
+"Marc Bowles",2013-10-17,75
+"Nicole Reid",2013-10-17,75
+"Kara Gregory",2013-10-16,76
+"Anita Boyle",2013-10-16,76
+"Anne Schultz",2013-10-16,76
+"Judy Kirk",2013-10-16,76
+"Daniel S Glover",2013-10-16,76
+"Jerry Ennis",2013-10-16,76
+"Don Herndon",2013-10-16,76
+"Bonnie Matthews Rowland",2013-10-16,76
+"Michele Bennett",2013-10-15,77
+"Ian Hall",2013-10-15,77
+"Leah MacDonald",2013-10-15,77
+"Sheryl Law",2013-10-15,77
+"Christopher High",2013-10-15,77
+"Kevin Smith",2013-10-15,77
+"Kevin Daly",2013-10-15,77
+"Earl Alston",2013-10-15,77
+"Derek Jernigan",2013-10-15,77
+"Alexandra Duke",2013-10-14,78
+"Frank Cross",2013-10-14,78
+"Shelley Grant",2013-10-14,78
+"Maureen Stout",2013-10-13,79
+"Joel Buckley",2013-10-13,79
+"Cathy Weber",2013-10-13,79
+"Kathy Freedman",2013-10-13,79
+"Sean Sparks",2013-10-13,79
+"Tamara Dickinson",2013-10-12,80
+"Vanessa Crowell",2013-10-12,80
+"Leslie Hawley",2013-10-12,80
+"Lucille McGee",2013-10-11,81
+"Tracey Gross",2013-10-11,81
+"Regina Langley",2013-10-11,81
+"Gretchen Zimmerman",2013-10-10,82
+"Jesse Farrell",2013-10-10,82
+"Ron Singh",2013-10-10,82
+"Shawn Stern",2013-10-09,83
+"Christopher Norton Patterson",2013-10-09,83
+"Sheryl Doyle Block",2013-10-09,83
+"Kelly Burnette",2013-10-09,83
+"Christina Thompson",2013-10-09,83
+"Derek Tuttle",2013-10-09,83
+"Doris Starr",2013-10-09,83
+"Tara Warren",2013-10-09,83
+"Crystal Floyd",2013-10-09,83
+"Chris High",2013-10-08,84
+"Caroline Stone",2013-10-08,84
+"Marian Anthony",2013-10-08,84
+"Edna Goodwin",2013-10-08,84
+"Jon Beasley",2013-10-07,85
+"Robin Beatty",2013-10-07,85
+"Judith French",2013-10-07,85
+"Sandra Shaw",2013-10-07,85
+"Keith Marsh",2013-10-07,85
+"Terri Lyons",2013-10-06,86
+"Joyce Foster",2013-10-06,86
+"Kathryn Cho",2013-10-06,86
+"Patricia Carver Fink",2013-10-06,86
+"Adam Barton",2013-10-06,86
+"Carolyn Greer",2013-10-06,86
+"Monica May",2013-10-05,87
+"Grace Black",2013-10-05,87
+"Glenda Taylor Strauss",2013-10-05,87
+"Jordan Marsh",2013-10-05,87
+"Bradley Brantley",2013-10-05,87
+"Florence Gold",2013-10-04,88
+"Sheryl Alexander",2013-10-04,88
+"Natalie Snow",2013-10-04,88
+"Brenda Cobb",2013-10-04,88
+"Brandon Beach",2013-10-04,88
+"Audrey Harmon",2013-10-04,88
+"Virginia Mason Klein",2013-10-04,88
+"Carla S Austin",2013-10-04,88
+"Mildred Peacock",2013-10-04,88
+"Ronald O'Neill",2013-10-04,88
+"Paula Hubbard",2013-10-04,88
+"Nina Horne Kelly",2013-10-04,88
+"Norman Tyler",2013-10-04,88
+"Cameron Kendall",2013-10-03,89
+"Laurence Martinez Rodriguez",2013-10-03,89
+"Alison Starr",2013-10-03,89
+"Laurie Hanna",2013-10-02,90
+"Tony Wilkins Winters",2013-10-02,90
+"Russell Hsu O'Neill",2013-10-02,90
+"James Fox",2013-10-02,90
+"Wayne Bean",2013-10-02,90
+"Gary Grimes",2013-10-02,90
+"Gary Walton",2013-10-02,90
+"Marie McClure",2013-10-01,91
+"Cynthia Gross",2013-10-01,91
+"Bill Bowers Li",2013-10-01,91
+"Vernon Hirsch Singleton",2013-10-01,91
+"Carolyn Bowling",2013-10-01,91
+"Joshua Keller",2013-10-01,91
+"Helen Stein",2013-09-30,92
+"Lee Fields",2013-09-30,92
+"Lindsay P Ashley",2013-09-30,92
+"Tamara Cowan",2013-09-30,92
+"Ruby Booth",2013-09-30,92
+"Betsy Owens",2013-09-30,92
+"Bruce Murray",2013-09-30,92
+"Larry Neal",2013-09-30,92
+"Edgar Vogel",2013-09-29,93
+"Lynn Hines",2013-09-29,93
+"Carole Creech",2013-09-29,93
+"Laurence Poe",2013-09-29,93
+"Dana Waller",2013-09-29,93
+"Michele Morrow Marsh",2013-09-28,94
+"Vivian Hodge",2013-09-28,94
+"Christian Branch",2013-09-28,94
+"Alan Briggs",2013-09-28,94
+"Andrew Todd",2013-09-27,95
+"Laura Carver Branch",2013-09-27,95
+"Benjamin Humphrey",2013-09-27,95
+"Charlene Reynolds",2013-09-26,96
+"Sara O'Connor",2013-09-25,97
+"Ronnie Pace",2013-09-25,97
+"Annie Livingston",2013-09-25,97
+"Marianne Connor",2013-09-25,97
+"Frederick Lang",2013-09-25,97
+"Anne Bland",2013-09-24,98
+"Christopher Berman",2013-09-24,98
+"Marc Simon",2013-09-24,98
+"Ricky Y Newman",2013-09-24,98
+"Roger Schwartz",2013-09-24,98
+"Mike Strauss",2013-09-24,98
+"Phyllis Adcock",2013-09-24,98
+"Jacqueline McMahon",2013-09-24,98
+"Harold Shapiro",2013-09-23,99
+"Constance Robertson",2013-09-23,99
+"Eric Dennis",2013-09-23,99
+"Calvin Parsons Walter",2013-09-23,99
+"Ruth McConnell Young",2013-09-23,99
+"Dwight Hendricks",2013-09-23,99
+"Jane Freeman",2013-09-23,99
+"Jennifer Grant",2013-09-23,99
+"Carmen McPherson",2013-09-22,100
+"Shawn McIntyre",2013-09-22,100
+"Vicki Womble",2013-09-22,100
+"Brian Norman",2013-09-22,100
+"Jacob Burgess",2013-09-22,100
+"Bonnie G Keith",2013-09-22,100
+"Derek Shah",2013-09-22,100
+"Gilbert P Sun",2013-09-22,100
+"Diane Flynn",2013-09-21,101
+"Ricky Sanders",2013-09-21,101
+"Julie Porter",2013-09-21,101
+"Milton Clarke",2013-09-20,102
+"Kimberly Melvin",2013-09-20,102
+"Lloyd Cannon",2013-09-20,102
+"Helen Ward Langley",2013-09-20,102
+"Wanda Stafford",2013-09-19,103
+"Gilbert Scarborough",2013-09-19,103
+"April Flynn",2013-09-19,103
+"Amy Hamrick Melvin",2013-09-19,103
+"Annie Odom",2013-09-19,103
+"Leon Doyle",2013-09-19,103
+"Emma Harvey",2013-09-19,103
+"Stacey Deal",2013-09-19,103
+"Donna Hawkins",2013-09-18,104
+"Juanita Bennett",2013-09-18,104
+"Josephine Dalton",2013-09-18,104
+"Kara Tyler",2013-09-18,104
+"Michael Howe",2013-09-18,104
+"Samuel Simmons",2013-09-17,105
+"Julian Stallings",2013-09-17,105
+"Gretchen Best Wilkins",2013-09-16,106
+"Mike Barry",2013-09-16,106
+"Martha Durham",2013-09-16,106
+"Jamie Manning",2013-09-16,106
+"Christopher Horner",2013-09-16,106
+"Clara Hauser",2013-09-16,106
+"Daniel Jones",2013-09-16,106
+"Dan George",2013-09-16,106
+"Leah Davenport",2013-09-16,106
+"Veronica Peck",2013-09-16,106
+"Dana Jain",2013-09-15,107
+"Priscilla Allen",2013-09-15,107
+"Pauline Stanley",2013-09-15,107
+"Frank Hartman",2013-09-15,107
+"Stacy Reynolds",2013-09-15,107
+"Edna Freeman",2013-09-15,107
+"Wesley Cho",2013-09-15,107
+"Daniel Phelps",2013-09-14,108
+"Anna Miles",2013-09-14,108
+"Kay Ivey Orr",2013-09-14,108
+"Shawn Adler",2013-09-14,108
+"Yvonne Stephens",2013-09-14,108
+"Rodney Horn Kirby",2013-09-14,108
+"Sean N Boyer",2013-09-14,108
+"Pauline Finch",2013-09-14,108
+"Jeffrey Cheng",2013-09-13,109
+"Sharon Kessler",2013-09-13,109
+"Thomas Frazier",2013-09-13,109
+"Glen Green",2013-09-13,109
+"Rhonda Bryant",2013-09-13,109
+"Danielle Gray",2013-09-13,109
+"Sharon Ellis",2013-09-13,109
+"Vickie Martinez",2013-09-13,109
+"Justin Frank",2013-09-13,109
+"Edith Norton",2013-09-12,110
+"Frederick Cole",2013-09-12,110
+"Geoffrey H Wong",2013-09-12,110
+"Tammy Buckley",2013-09-12,110
+"Brad H Blake",2013-09-12,110
+"Jerry Webster",2013-09-12,110
+"Jay Simon",2013-09-12,110
+"Diane Blanton",2013-09-12,110
+"Stacey Davenport",2013-09-11,111
+"Alice Pittman",2013-09-11,111
+"Robin Tyler",2013-09-11,111
+"Ross Wang Bates",2013-09-10,112
+"Courtney Weber",2013-09-10,112
+"Edna Schroeder",2013-09-10,112
+"Jimmy Hsu",2013-09-10,112
+"Gayle Lawson",2013-09-10,112
+"Brent Graves",2013-09-10,112
+"Paul Puckett",2013-09-10,112
+"Rebecca Rhodes",2013-09-10,112
+"Suzanne Zhu",2013-09-09,113
+"Emily Britt",2013-09-09,113
+"Maureen Tanner",2013-09-09,113
+"Juan Gold",2013-09-09,113
+"Bob Harrington",2013-09-09,113
+"Brad Stark",2013-09-09,113
+"Michele Meadows",2013-09-09,113
+"Gregory Barefoot",2013-09-09,113
+"April Bowers",2013-09-08,114
+"Gail Welch",2013-09-08,114
+"Judy Frazier",2013-09-08,114
+"Valerie Hahn",2013-09-07,115
+"Valerie Whitfield",2013-09-06,116
+"Monica Law Thompson",2013-09-06,116
+"Ethel Coley",2013-09-06,116
+"Ted Bowden",2013-09-06,116
+"Harold Albright",2013-09-05,117
+"Samantha Weaver",2013-09-05,117
+"Marilyn Blalock",2013-09-05,117
+"Ralph Fowler",2013-09-05,117
+"Tracy G Starr",2013-09-05,117
+"Joann Moser",2013-09-05,117
+"Victor Hansen",2013-09-05,117
+"Suzanne Shannon",2013-09-04,118
+"Monica McCormick",2013-09-04,118
+"Katie Dougherty",2013-09-04,118
+"Mitchell Goldberg",2013-09-04,118
+"John Merritt",2013-09-04,118
+"Danielle Daniel",2013-09-04,118
+"Gilbert Washington",2013-09-03,119
+"Kathy Hinton",2013-09-03,119
+"Meredith Brandon",2013-09-03,119
+"Alicia Curtis",2013-09-03,119
+"Jessie Goldberg",2013-09-03,119
+"Rhonda Ivey",2013-09-02,120
+"Martha Pridgen",2013-09-02,120
+"Betty Cross",2013-09-02,120
+"Sue Nichols",2013-09-02,120
+"Jon Kendall",2013-09-02,120
+"Rodney Reed",2013-09-02,120
+"Lois Barnett",2013-09-02,120
+"Edgar Stone",2013-09-01,121
+"Vicki Shannon",2013-09-01,121
+"Kathy Turner",2013-09-01,121
+"Edith McDaniel",2013-09-01,121
+"Tim T Cobb",2013-09-01,121
+"Sandy Byers",2013-09-01,121
+"Terri Morton",2013-09-01,121
+"Steve Ballard",2013-08-31,122
+"Kevin Rouse",2013-08-31,122
+"Sherri McIntosh",2013-08-31,122
+"Theodore Moran",2013-08-30,123
+"Miriam Proctor",2013-08-30,123
+"Luis Lang Rowe",2013-08-30,123
+"Jim Hinson",2013-08-30,123
+"Paul Tate",2013-08-30,123
+"Kara Wang",2013-08-30,123
+"Elisabeth Massey",2013-08-30,123
+"David Weaver",2013-08-30,123
+"Molly Branch",2013-08-29,124
+"Linda Faulkner",2013-08-29,124
+"James Osborne",2013-08-29,124
+"Laurie Petty",2013-08-29,124
+"Jason Bell",2013-08-29,124
+"Rodney Christian Callahan",2013-08-29,124
+"Christian Albright",2013-08-29,124
+"Jill Barefoot",2013-08-28,125
+"Marion Jordan",2013-08-28,125
+"Billy Odom",2013-08-28,125
+"Glenda Hunter",2013-08-28,125
+"Brenda May",2013-08-28,125
+"Karl Holloway",2013-08-28,125
+"Rebecca Abrams",2013-08-28,125
+"Ken H Frazier",2013-08-28,125
+"Holly Osborne",2013-08-28,125
+"Marvin MacDonald",2013-08-28,125
+"Elsie Floyd",2013-08-27,126
+"Courtney Boyd",2013-08-27,126
+"Michelle Bryant Phillips",2013-08-27,126
+"Gilbert Godfrey",2013-08-27,126
+"Denise Arthur",2013-08-27,126
+"Eugene Simmons",2013-08-27,126
+"Lynn Morrow",2013-08-26,127
+"Joe Baldwin",2013-08-26,127
+"Sheryl Allred",2013-08-26,127
+"Barbara McNamara",2013-08-26,127
+"Louis Parrish",2013-08-25,128
+"Renee McDowell",2013-08-24,129
+"Ray Grady",2013-08-24,129
+"Stacey Bell",2013-08-24,129
+"Erica Bynum",2013-08-24,129
+"Yvonne Clarke",2013-08-24,129
+"Nathan Jenkins",2013-08-24,129
+"Kathryn Wolfe",2013-08-23,130
+"Aaron Day",2013-08-23,130
+"Diana Rosenthal",2013-08-23,130
+"Nicole Jacobson",2013-08-23,130
+"Joann Hensley",2013-08-22,131
+"Sandra Moran",2013-08-22,131
+"Jane Clayton",2013-08-22,131
+"Ryan Herman",2013-08-22,131
+"Anne Barnett",2013-08-22,131
+"William McDonald",2013-08-22,131
+"Lindsay McGuire",2013-08-22,131
+"Roger Barnett Goodman",2013-08-21,132
+"Gene Hardin",2013-08-21,132
+"Jill Chang",2013-08-21,132
+"Maurice Faulkner",2013-08-21,132
+"Richard McClure",2013-08-21,132
+"Peter Adams",2013-08-21,132
+"Jill Foster",2013-08-20,133
+"Meredith Bland",2013-08-20,133
+"Erica Nguyen",2013-08-20,133
+"Martin Mitchell",2013-08-20,133
+"Justin Gillespie",2013-08-20,133
+"Frances Boykin",2013-08-20,133
+"Erik Moon",2013-08-20,133
+"John Bray",2013-08-20,133
+"Julia Padgett",2013-08-19,134
+"Marian Godwin",2013-08-19,134
+"Brenda Ross",2013-08-19,134
+"Eugene Chandler",2013-08-18,135
+"Marvin Parrott",2013-08-18,135
+"Victor McAllister",2013-08-18,135
+"Gary Frazier",2013-08-18,135
+"Andrew Gonzalez",2013-08-18,135
+"Robert Cowan",2013-08-18,135
+"Alison Jacobson",2013-08-18,135
+"Danielle Kramer",2013-08-17,136
+"Gloria Lewis",2013-08-17,136
+"Clyde Fuller",2013-08-17,136
+"Cameron Owens",2013-08-17,136
+"Ricky Hensley",2013-08-16,137
+"Mildred Steele",2013-08-16,137
+"Dwight M Carr",2013-08-16,137
+"Yvonne Collier",2013-08-16,137
+"Sherri P Stephens",2013-08-16,137
+"Jonathan Crabtree",2013-08-15,138
+"Carlos Hess",2013-08-15,138
+"Jordan Womble",2013-08-15,138
+"Gayle Waller",2013-08-15,138
+"Norman Burnette",2013-08-15,138
+"Bryan Weinstein",2013-08-15,138
+"Rebecca Frazier Foley",2013-08-15,138
+"Luis Henry",2013-08-15,138
+"Geoffrey Saunders",2013-08-14,139
+"Lisa Branch",2013-08-14,139
+"Tim Blackburn",2013-08-14,139
+"Troy Moon",2013-08-14,139
+"Mike Pollard",2013-08-14,139
+"Julia Haynes",2013-08-14,139
+"Marvin Patrick",2013-08-14,139
+"Brooke Leach",2013-08-14,139
+"Ronald Park",2013-08-14,139
+"Wesley Corbett",2013-08-14,139
+"Nathan Wyatt",2013-08-13,140
+"Helen H Heller",2013-08-13,140
+"Robyn White",2013-08-12,141
+"Julian Keith Mayer",2013-08-12,141
+"Vivian Mayer",2013-08-12,141
+"Jennifer Stanton",2013-08-12,141
+"Laurie Howe",2013-08-12,141
+"Donna Braun",2013-08-12,141
+"Maria O'Donnell Kessler",2013-08-12,141
+"Martha Cunningham",2013-08-12,141
+"George Bowen",2013-08-12,141
+"Jimmy Boswell",2013-08-11,142
+"Joseph Dawson",2013-08-11,142
+"John House",2013-08-10,143
+"Jimmy Wang",2013-08-10,143
+"Nancy Schwartz",2013-08-10,143
+"Rick Ellis",2013-08-10,143
+"Dorothy Holt",2013-08-10,143
+"Kimberly Matthews",2013-08-10,143
+"Frank Hess",2013-08-10,143
+"Dennis Bowen",2013-08-10,143
+"Edward Bynum",2013-08-10,143
+"Emma Bloom",2013-08-09,144
+"Kerry Beach",2013-08-09,144
+"Francis Goldberg",2013-08-09,144
+"Jacob Duncan",2013-08-09,144
+"Matthew Kearney",2013-08-09,144
+"Catherine Woodard",2013-08-09,144
+"Janice Cole",2013-08-08,145
+"Eileen Fletcher",2013-08-07,146
+"Larry W Lehman",2013-08-07,146
+"Donald Montgomery",2013-08-07,146
+"Lillian Fischer",2013-08-07,146
+"Don Cameron",2013-08-06,147
+"Tonya Miller",2013-08-06,147
+"Megan Woods",2013-08-05,148
+"Jimmy Waters",2013-08-05,148
+"Nelson Coley",2013-08-05,148
+"Dolores Vincent",2013-08-05,148
+"Kerry Small",2013-08-05,148
+"Kathryn Jenkins",2013-08-05,148
+"Gregory Holden",2013-08-05,148
+"Todd Wiggins",2013-08-05,148
+"Glen Robertson",2013-08-04,149
+"Nicole Pope",2013-08-04,149
+"Becky Farmer",2013-08-04,149
+"Hilda Proctor",2013-08-04,149
+"Billie Chan",2013-08-04,149
+"Bernice F Day",2013-08-04,149
+"Terry Langston",2013-08-04,149
+"Erik Barr",2013-08-04,149
+"Kathleen McKinney McIntosh",2013-08-04,149
+"Tiffany Merrill",2013-08-03,150
+"Caroline Morton",2013-08-02,151
+"Bobby Dorsey",2013-08-02,151
+"Glenda Simon",2013-08-02,151
+"Ruth Lamm",2013-08-02,151
+"Marc Ray",2013-08-02,151
+"Lori Crowell",2013-08-01,152
+"Mitchell Ross",2013-08-01,152
+"Louis Wells",2013-07-31,153
+"Kelly Byers",2013-07-31,153
+"Joy Maxwell",2013-07-31,153
+"Nancy Bennett",2013-07-30,154
+"Bob Dickens",2013-07-30,154
+"Daniel Christian",2013-07-30,154
+"Fred Barber",2013-07-29,155
+"Charlie Morton",2013-07-29,155
+"Grace Everett",2013-07-29,155
+"Benjamin Creech",2013-07-29,155
+"Glen Denton",2013-07-29,155
+"Jane Howell",2013-07-29,155
+"Carl Hobbs",2013-07-29,155
+"Patricia Cole Blair",2013-07-28,156
+"Melinda Rogers",2013-07-28,156
+"Robert Brantley",2013-07-28,156
+"Toni Swanson",2013-07-27,157
+"Jimmy Alston Holder",2013-07-27,157
+"Gerald Petty",2013-07-27,157
+"Philip Olsen",2013-07-26,158
+"Jason Bray",2013-07-26,158
+"Michael Carr",2013-07-26,158
+"Andrew Beard",2013-07-26,158
+"Yvonne Ryan",2013-07-26,158
+"Francis I Davis",2013-07-25,159
+"Lynda K Porter",2013-07-25,159
+"Sharon Sellers",2013-07-25,159
+"Mike T O'Neill",2013-07-24,160
+"Lisa Roberson",2013-07-23,161
+"Gayle Christian",2013-07-22,162
+"Sharon Thomas",2013-07-22,162
+"Vicki Bond",2013-07-22,162
+"Danielle Schneider",2013-07-21,163
+"Mary Wood",2013-07-21,163
+"Vanessa Boyer",2013-07-21,163
+"Sheila Warren",2013-07-21,163
+"Becky O'Brien",2013-07-21,163
+"Betty Schroeder",2013-07-21,163
+"Jerry Barber",2013-07-21,163
+"Amy Hall",2013-07-21,163
+"Teresa Hill",2013-07-21,163
+"Amanda Kay",2013-07-20,164
+"Carla Wilson",2013-07-20,164
+"Brenda Klein",2013-07-19,165
+"Lauren Lanier",2013-07-19,165
+"Raymond Clark",2013-07-19,165
+"Norma Hull",2013-07-19,165
+"Ross Simpson",2013-07-18,166
+"Yvonne Pearson",2013-07-17,167
+"Robert Willis",2013-07-17,167
+"Tina Evans",2013-07-16,168
+"Helen Ferguson",2013-07-16,168
+"Leo Riley",2013-07-16,168
+"Kathleen Huang Hall",2013-07-16,168
+"Clifford Moran",2013-07-16,168
+"Harvey Berman",2013-07-16,168
+"Crystal Crabtree",2013-07-15,169
+"Kristine Holden",2013-07-15,169
+"Ann Allen",2013-07-15,169
+"Sandy Gill",2013-07-15,169
+"Jan Cross",2013-07-14,170
+"Milton Pollock",2013-07-14,170
+"Laurence Simon",2013-07-14,170
+"Beverly Roberts",2013-07-13,171
+"Katie Mayo",2013-07-13,171
+"Eddie Walker",2013-07-13,171
+"Vivian Clarke",2013-07-13,171
+"Janice Woods",2013-07-13,171
+"Edward Maxwell",2013-07-13,171
+"Oscar Swain",2013-07-12,172
+"Arlene Lutz",2013-07-12,172
+"George Shields",2013-07-12,172
+"Jean Weiss Diaz",2013-07-11,173
+"Beth McKenzie",2013-07-11,173
+"Carlos Adkins",2013-07-11,173
+"Dana Boyle",2013-07-10,174
+"Jeremy Reilly",2013-07-10,174
+"Gladys Everett",2013-07-10,174
+"Kelly Sawyer",2013-07-10,174
+"Bill Terrell",2013-07-09,175
+"Ken Woodward",2013-07-09,175
+"Ronnie Dodson",2013-07-09,175
+"Vincent Cash Bryant",2013-07-09,175
+"Andrea Shaw",2013-07-09,175
+"Elisabeth Shaw",2013-07-09,175
+"Maria Jackson",2013-07-09,175
+"Martin Underwood",2013-07-09,175
+"Eileen Dalton",2013-07-08,176
+"Howard Rogers",2013-07-07,177
+"Julie Willis",2013-07-06,178
+"Stacey Lucas",2013-07-06,178
+"Wesley Reid",2013-07-05,179
+"Alvin B Winstead",2013-07-04,180
+"Carol Sherrill",2013-07-04,180
+"Marion Wilcox",2013-07-04,180
+"Dana Heller",2013-07-04,180
+"Leslie Shannon",2013-07-03,181
+"Joyce Kern",2013-07-03,181
+"Wayne English",2013-07-03,181
+"Dorothy Gonzalez",2013-07-03,181
+"Shawn Combs",2013-07-02,182
+"Virginia Hardison",2013-07-02,182
+"Frances Epstein",2013-07-02,182
+"Allan Shields",2013-07-02,182
+"Alfred Singh",2013-07-02,182
+"Katie Blum",2013-07-02,182
+"Linda Waters",2013-07-02,182
+"Denise Sumner",2013-07-02,182
+"Bonnie Potter",2013-07-01,183
+"Sean Stephenson",2013-07-01,183
+"Benjamin Norman Rodgers",2013-07-01,183
+"Tony Woods",2013-06-30,184
+"Jeff Spivey",2013-06-30,184
+"Nancy Combs",2013-06-30,184
+"Nancy White",2013-06-29,185
+"Douglas Sutton",2013-06-29,185
+"Glenda Carlton",2013-06-29,185
+"Charlie Blalock",2013-06-29,185
+"Debra Proctor",2013-06-29,185
+"Natalie Watts",2013-06-28,186
+"Anita Kang",2013-06-28,186
+"Dana Desai",2013-06-28,186
+"Colleen Wilcox",2013-06-27,187
+"Sheryl Cole",2013-06-27,187
+"Maxine Wilson Best",2013-06-27,187
+"Priscilla Bullock",2013-06-27,187
+"Phillip Wright",2013-06-26,188
+"Theodore Corbett",2013-06-26,188
+"Cecil Shields",2013-06-26,188
+"Kate Lehman",2013-06-26,188
+"Katherine Knight",2013-06-26,188
+"Arlene Weber",2013-06-26,188
+"Ruby Horowitz",2013-06-25,189
+"Emma Buckley",2013-06-25,189
+"Carrie McIntosh",2013-06-24,190
+"Eugene Curry",2013-06-24,190
+"Brandon C Yates",2013-06-24,190
+"Tom Conway",2013-06-24,190
+"Gail Currin",2013-06-24,190
+"Melvin Benton",2013-06-24,190
+"Kay Hendricks",2013-06-24,190
+"Tom Hoyle Honeycutt",2013-06-23,191
+"Kristin Dorsey",2013-06-23,191
+"Brenda Jain",2013-06-22,192
+"Florence Clayton",2013-06-22,192
+"Marvin Reeves McMillan",2013-06-20,194
+"Allen Nash",2013-06-20,194
+"Ross Kent",2013-06-20,194
+"Jamie Watkins",2013-06-19,195
+"Robyn Buchanan",2013-06-19,195
+"Bill O'Neill",2013-06-19,195
+"Keith Liu Duncan",2013-06-18,196
+"Phillip Cochran Ashley",2013-06-18,196
+"Jessie Pugh",2013-06-17,197
+"Robin High",2013-06-17,197
+"Mike Howard",2013-06-17,197
+"Malcolm S Lanier",2013-06-16,198
+"Penny Holmes",2013-06-16,198
+"Eileen Frye",2013-06-16,198
