@@ -10,5 +10,8 @@ In this analysis a sales database of a superstore is used. This data set is load
 
 Based on the result we want to perform some marketing campaign to the necessary customers so the we can increase sales and profit.
 ## Necessary Files
+- `README.md`: readme file of the analysis. Overall discussion
+- `Superstore_Sales_Data.csv`: dataset used to perform analysis
+- `superstore_data_analysis.sql`: necessary SQL write to perform analysis
 ## Methodology
 ## Findings / Results
