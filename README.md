@@ -60,9 +60,14 @@ By using this value we find how active a customer is.
      and also find the number of customers in each category
   
 **7. Create View from the view to find important customer info**
-- using important_customer_label view to find the important customer
+- using the important_customer_label view, find the important customer
 - information like customer name, total profit from the customer,
 - total quantity of sales to the customer, customer segment,
 - customer ID and location-related information.
 
 ## Findings / Results
+- In this analysis, we find the important customer by the score value.
+- Based on the score value we can perform any type of camping so that we
+  can grab more and more customers.
+- create some views of important customers, their importance level, their other info
+  
